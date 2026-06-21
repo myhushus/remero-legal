@@ -7,20 +7,400 @@
   <link rel="stylesheet" href="/assets/legal.css">
 </head>
 <body>
-<main><nav><a href="/">Remero Legal</a><a href="/privacy/">Privacy</a><a href="/terms/">Terms</a><a href="/delete/">Delete Account</a><a href="/licenses/">Licenses</a></nav>
-<h1>Open Source Licenses and Third-Party Notices</h1><p class="meta"><strong>Version:</strong> 1.0<br><strong>Effective date:</strong> June 21, 2026<br><strong>Contact:</strong> <a href="mailto:support@meroviq.com">support@meroviq.com</a></p>
-<div class="notice">Remero uses open source software and third-party components. This page provides public notice of applicable license information.</div>
-<h2>In-app license notice</h2><p>Remero may also provide open source license notices inside the app through the app’s Open Source Licenses screen.</p>
-<h2>Flutter and third-party packages</h2><p>Remero is built with Flutter and may include Flutter, Dart, Firebase, Google Play, and other open source packages. Each package is used under its applicable license terms.</p>
-<h2>Current notice status</h2><p>This page is prepared for Remero’s public legal site. Before release, generate the final dependency license list from the app build and publish the resulting notices here or ensure they are available inside the app.</p>
-<h2>Contact</h2><p>If you believe a license notice is missing or inaccurate, contact <a href="mailto:support@meroviq.com">support@meroviq.com</a>.</p>
+<main>
+<nav><a href="/">Remero Legal</a><a href="/privacy/">Privacy</a><a href="/terms/">Terms</a><a href="/delete/">Delete Account</a><a href="/licenses/">Licenses</a></nav>
+
+<h1>Open Source Licenses and Third-Party Notices</h1>
+<p class="meta"><strong>Version:</strong> 1.1<br><strong>Effective date:</strong> June 21, 2026<br><strong>App version:</strong> Remero 1.0.0+23<br><strong>Contact:</strong> <a href="mailto:support@meroviq.com">support@meroviq.com</a></p>
+
+<div class="notice">Remero uses open source software and third-party components. This page publishes license information for Dart and Flutter packages resolved in the Remero app build (<code>apps/remero/pubspec.lock</code>).</div>
+
+<h2>Access from the app</h2>
+<p>The Remero app opens this public licenses page from <strong>Settings → Information → Licenses</strong>. Remero currently provides license notices through this public web page (not an in-app LicensePage).</p>
+
+<h2>Framework and SDK components</h2>
+<table>
+  <thead><tr><th>Component</th><th>Version</th><th>License type</th><th>Source</th></tr></thead>
+  <tbody>
+    <tr><td>Flutter SDK</td><td>3.44.0 (stable)</td><td>BSD-3-Clause</td><td>Flutter SDK <code>LICENSE</code> file</td></tr>
+    <tr><td>Dart SDK</td><td>3.12.0</td><td>BSD-3-Clause</td><td>Included with Flutter SDK</td></tr>
+  </tbody>
+</table>
+
+<h2>Direct Dart/Flutter dependencies</h2>
+<p>Declared in <code>apps/remero/pubspec.yaml</code>; resolved versions from <code>pubspec.lock</code>. License type read from each package <code>LICENSE</code> file in the pub cache.</p>
+<table>
+  <thead><tr><th>Package</th><th>Version</th><th>License type</th></tr></thead>
+  <tbody>
+        <tr><td>cloud_firestore</td><td>6.5.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>cloud_functions</td><td>6.3.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>connectivity_plus</td><td>6.1.5</td><td>BSD-3-Clause</td></tr>
+        <tr><td>crop_your_image</td><td>2.0.0</td><td>Apache-2.0</td></tr>
+        <tr><td>cupertino_icons</td><td>1.0.9</td><td>MIT</td></tr>
+        <tr><td>firebase_auth</td><td>6.5.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>firebase_core</td><td>4.10.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>firebase_storage</td><td>13.4.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>flutter_image_compress</td><td>2.4.0</td><td>MIT</td></tr>
+        <tr><td>flutter_svg</td><td>2.3.0</td><td>MIT</td></tr>
+        <tr><td>image_picker</td><td>1.2.2</td><td>Apache-2.0</td></tr>
+        <tr><td>in_app_purchase</td><td>3.3.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>intl</td><td>0.20.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>path_provider</td><td>2.1.5</td><td>BSD-3-Clause</td></tr>
+        <tr><td>share_plus</td><td>11.1.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>shared_preferences</td><td>2.5.5</td><td>BSD-3-Clause</td></tr>
+        <tr><td>url_launcher</td><td>6.3.2</td><td>BSD-3-Clause</td></tr>
+  </tbody>
+</table>
+
+<h2>Transitive Dart/Flutter dependencies</h2>
+<p>Additional packages pulled in by the direct dependencies above (120 packages). License type read from pub-cache <code>LICENSE</code> files.</p>
+<table>
+  <thead><tr><th>Package</th><th>Version</th><th>License type</th></tr></thead>
+  <tbody>
+        <tr><td>_flutterfire_internals</td><td>1.3.72</td><td>BSD-3-Clause</td></tr>
+        <tr><td>antlr4</td><td>4.13.2</td><td>MIT</td></tr>
+        <tr><td>archive</td><td>4.0.9</td><td>MIT</td></tr>
+        <tr><td>args</td><td>2.7.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>async</td><td>2.13.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>boolean_selector</td><td>2.1.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>cel</td><td>0.5.4+1</td><td>MIT</td></tr>
+        <tr><td>characters</td><td>1.4.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>clock</td><td>1.1.2</td><td>Apache-2.0</td></tr>
+        <tr><td>cloud_firestore_platform_interface</td><td>8.0.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>cloud_firestore_web</td><td>5.5.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>cloud_functions_platform_interface</td><td>6.0.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>cloud_functions_web</td><td>5.1.8</td><td>BSD-3-Clause</td></tr>
+        <tr><td>code_assets</td><td>1.2.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>collection</td><td>1.19.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>connectivity_plus_platform_interface</td><td>2.1.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>cross_file</td><td>0.3.5+2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>crypto</td><td>3.0.7</td><td>BSD-3-Clause</td></tr>
+        <tr><td>dbus</td><td>0.7.14</td><td>MPL-2.0</td></tr>
+        <tr><td>equatable</td><td>2.0.8</td><td>MIT</td></tr>
+        <tr><td>fake_async</td><td>1.3.3</td><td>Apache-2.0</td></tr>
+        <tr><td>fake_firebase_security_rules</td><td>0.5.4</td><td>MIT</td></tr>
+        <tr><td>ffi</td><td>2.2.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>file</td><td>7.0.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>file_selector_linux</td><td>0.9.4</td><td>BSD-3-Clause</td></tr>
+        <tr><td>file_selector_macos</td><td>0.9.5</td><td>BSD-3-Clause</td></tr>
+        <tr><td>file_selector_platform_interface</td><td>2.7.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>file_selector_windows</td><td>0.9.3+5</td><td>BSD-3-Clause</td></tr>
+        <tr><td>firebase_auth_platform_interface</td><td>9.0.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>firebase_auth_web</td><td>6.2.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>firebase_core_platform_interface</td><td>7.0.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>firebase_core_web</td><td>3.8.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>firebase_storage_platform_interface</td><td>6.0.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>firebase_storage_web</td><td>3.11.8</td><td>BSD-3-Clause</td></tr>
+        <tr><td>fixnum</td><td>1.1.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>flutter_image_compress_common</td><td>1.0.6</td><td>MIT</td></tr>
+        <tr><td>flutter_image_compress_macos</td><td>1.0.3</td><td>MIT</td></tr>
+        <tr><td>flutter_image_compress_ohos</td><td>0.0.3</td><td>MIT</td></tr>
+        <tr><td>flutter_image_compress_platform_interface</td><td>1.0.5</td><td>MIT</td></tr>
+        <tr><td>flutter_image_compress_web</td><td>0.1.5</td><td>MIT</td></tr>
+        <tr><td>flutter_plugin_android_lifecycle</td><td>2.0.34</td><td>BSD-3-Clause</td></tr>
+        <tr><td>hooks</td><td>2.0.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>http</td><td>1.6.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>http_parser</td><td>4.1.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>image</td><td>4.8.0</td><td>MIT</td></tr>
+        <tr><td>image_picker_android</td><td>0.8.13+17</td><td>Apache-2.0</td></tr>
+        <tr><td>image_picker_for_web</td><td>3.1.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>image_picker_ios</td><td>0.8.13+6</td><td>Apache-2.0</td></tr>
+        <tr><td>image_picker_linux</td><td>0.2.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>image_picker_macos</td><td>0.2.2+1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>image_picker_platform_interface</td><td>2.11.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>image_picker_windows</td><td>0.2.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>in_app_purchase_android</td><td>0.5.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>in_app_purchase_platform_interface</td><td>1.4.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>in_app_purchase_storekit</td><td>0.4.10</td><td>BSD-3-Clause</td></tr>
+        <tr><td>jni</td><td>1.0.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>jni_flutter</td><td>1.0.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>json_annotation</td><td>4.12.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>leak_tracker</td><td>11.0.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>leak_tracker_flutter_testing</td><td>3.0.10</td><td>BSD-3-Clause</td></tr>
+        <tr><td>leak_tracker_testing</td><td>3.0.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>lints</td><td>6.1.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>logger</td><td>2.7.0</td><td>MIT</td></tr>
+        <tr><td>logging</td><td>1.3.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>matcher</td><td>0.12.19</td><td>BSD-3-Clause</td></tr>
+        <tr><td>material_color_utilities</td><td>0.13.0</td><td>Apache-2.0</td></tr>
+        <tr><td>meta</td><td>1.18.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>mime</td><td>2.0.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>mock_exceptions</td><td>0.8.2</td><td>MIT</td></tr>
+        <tr><td>more</td><td>4.7.0</td><td>MIT</td></tr>
+        <tr><td>nm</td><td>0.5.0</td><td>MPL-2.0</td></tr>
+        <tr><td>objective_c</td><td>9.4.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>package_config</td><td>2.2.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>path</td><td>1.9.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>path_parsing</td><td>1.1.0</td><td>MIT</td></tr>
+        <tr><td>path_provider_android</td><td>2.3.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>path_provider_foundation</td><td>2.6.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>path_provider_linux</td><td>2.2.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>path_provider_platform_interface</td><td>2.1.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>path_provider_windows</td><td>2.3.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>petitparser</td><td>7.0.2</td><td>MIT</td></tr>
+        <tr><td>platform</td><td>3.1.6</td><td>BSD-3-Clause</td></tr>
+        <tr><td>plugin_platform_interface</td><td>2.1.8</td><td>BSD-3-Clause</td></tr>
+        <tr><td>posix</td><td>6.5.0</td><td>MIT</td></tr>
+        <tr><td>pub_semver</td><td>2.2.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>record_use</td><td>0.6.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>rx</td><td>0.4.0</td><td>MIT</td></tr>
+        <tr><td>rxdart</td><td>0.28.0</td><td>Apache-2.0</td></tr>
+        <tr><td>share_plus_platform_interface</td><td>6.1.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>shared_preferences_android</td><td>2.4.23</td><td>BSD-3-Clause</td></tr>
+        <tr><td>shared_preferences_foundation</td><td>2.5.6</td><td>BSD-3-Clause</td></tr>
+        <tr><td>shared_preferences_linux</td><td>2.4.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>shared_preferences_platform_interface</td><td>2.4.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>shared_preferences_web</td><td>2.4.3</td><td>BSD-3-Clause</td></tr>
+        <tr><td>shared_preferences_windows</td><td>2.4.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>source_span</td><td>1.10.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>stack_trace</td><td>1.12.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>stream_channel</td><td>2.1.4</td><td>BSD-3-Clause</td></tr>
+        <tr><td>string_scanner</td><td>1.4.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>term_glyph</td><td>1.2.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>test_api</td><td>0.7.11</td><td>BSD-3-Clause</td></tr>
+        <tr><td>typed_data</td><td>1.4.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>url_launcher_android</td><td>6.3.32</td><td>BSD-3-Clause</td></tr>
+        <tr><td>url_launcher_ios</td><td>6.4.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>url_launcher_linux</td><td>3.2.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>url_launcher_macos</td><td>3.2.5</td><td>BSD-3-Clause</td></tr>
+        <tr><td>url_launcher_platform_interface</td><td>2.3.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>url_launcher_web</td><td>2.4.3</td><td>BSD-3-Clause</td></tr>
+        <tr><td>url_launcher_windows</td><td>3.1.5</td><td>BSD-3-Clause</td></tr>
+        <tr><td>uuid</td><td>4.5.3</td><td>MIT</td></tr>
+        <tr><td>vector_graphics</td><td>1.2.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>vector_graphics_codec</td><td>1.1.13</td><td>BSD-3-Clause</td></tr>
+        <tr><td>vector_graphics_compiler</td><td>1.2.3</td><td>BSD-3-Clause</td></tr>
+        <tr><td>vector_math</td><td>2.2.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>vm_service</td><td>15.2.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>web</td><td>1.1.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>win32</td><td>5.15.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>xdg_directories</td><td>1.1.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>xml</td><td>6.6.1</td><td>MIT</td></tr>
+        <tr><td>yaml</td><td>3.1.3</td><td>MIT</td></tr>
+  </tbody>
+</table>
+
+<h2>License type summary (Dart/Flutter packages)</h2>
+<table>
+  <thead><tr><th>License type</th><th>Package count</th></tr></thead>
+  <tbody>
+        <tr><td>BSD-3-Clause</td><td>103</td></tr>
+        <tr><td>MIT</td><td>24</td></tr>
+        <tr><td>Apache-2.0</td><td>8</td></tr>
+        <tr><td>MPL-2.0</td><td>2</td></tr>
+  </tbody>
+</table>
+
+<h2>Native platform components</h2>
+<p>Remero release builds also bundle native Android and iOS libraries (for example Firebase, Google Play services, AndroidX, and store billing SDKs) through Gradle and CocoaPods. Those components are <strong>not</strong> enumerated in <code>pubspec.lock</code>.</p>
+<p><strong>Needs verification:</strong> a complete native third-party license list should be generated from a release build artifact (for example Android <code>third_party_licenses.txt</code> / merged <code>NOTICES</code>) before final store submission.</p>
+
+<h2>Needs verification</h2>
+<ul>
+  <li>Native Android/iOS SDK inventory and license texts for the exact Remero 1.0.0+23 release APK/IPA.</li>
+  <li>Any license type marked above if the upstream package changes its <code>LICENSE</code> file in a future lockfile revision.</li>
+</ul>
+
+<h2>Contact</h2>
+<p>If you believe a license notice is missing or inaccurate, contact <a href="mailto:support@meroviq.com">support@meroviq.com</a>.</p>
+
 <hr>
-<h1>오픈소스 라이선스 및 제3자 고지</h1><p class="meta"><strong>버전:</strong> 1.0<br><strong>시행일:</strong> 2026년 6월 21일<br><strong>문의:</strong> <a href="mailto:support@meroviq.com">support@meroviq.com</a></p>
-<div class="notice">Remero는 오픈소스 소프트웨어 및 제3자 구성요소를 사용합니다. 이 페이지는 관련 라이선스 정보를 공개하기 위한 페이지입니다.</div>
-<h2>앱 내 라이선스 고지</h2><p>Remero는 앱의 오픈소스 라이선스 화면을 통해서도 관련 고지를 제공할 수 있습니다.</p>
-<h2>Flutter 및 제3자 패키지</h2><p>Remero는 Flutter로 제작되었으며 Flutter, Dart, Firebase, Google Play 및 기타 오픈소스 패키지를 포함할 수 있습니다. 각 패키지는 해당 라이선스 조건에 따라 사용됩니다.</p>
-<h2>현재 고지 상태</h2><p>이 페이지는 Remero 공개 법적 사이트를 위해 준비되었습니다. 출시 전 앱 빌드에서 최종 의존성 라이선스 목록을 생성하여 이 페이지에 게시하거나 앱 내부에서 확인 가능하도록 해야 합니다.</p>
-<h2>문의</h2><p>누락되거나 부정확한 라이선스 고지가 있다고 생각하는 경우 <a href="mailto:support@meroviq.com">support@meroviq.com</a>으로 연락해 주세요.</p>
-<footer><p><a href='/privacy/'>Privacy Policy</a> · <a href='/terms/'>Terms of Service</a></p></footer></main>
+
+<h1>오픈소스 라이선스 및 제3자 고지</h1>
+<p class="meta"><strong>버전:</strong> 1.1<br><strong>시행일:</strong> 2026년 6월 21일<br><strong>앱 버전:</strong> Remero 1.0.0+23<br><strong>문의:</strong> <a href="mailto:support@meroviq.com">support@meroviq.com</a></p>
+
+<div class="notice">Remero는 오픈소스 소프트웨어 및 제3자 구성요소를 사용합니다. 이 페이지는 Remero 앱 빌드에 포함된 Dart/Flutter 패키지(<code>apps/remero/pubspec.lock</code> 기준)의 라이선스 정보를 게시합니다.</div>
+
+<h2>앱에서 접근</h2>
+<p>Remero 앱의 <strong>설정 → 정보 → 라이선스</strong>에서 이 공개 라이선스 페이지를 열 수 있습니다. Remero는 현재 앱 내부 LicensePage가 아닌, 이 공개 웹 페이지를 통해 라이선스 고지를 제공합니다.</p>
+
+<h2>프레임워크 및 SDK 구성요소</h2>
+<table>
+  <thead><tr><th>구성요소</th><th>버전</th><th>라이선스 유형</th><th>출처</th></tr></thead>
+  <tbody>
+    <tr><td>Flutter SDK</td><td>3.44.0 (stable)</td><td>BSD-3-Clause</td><td>Flutter SDK <code>LICENSE</code></td></tr>
+    <tr><td>Dart SDK</td><td>3.12.0</td><td>BSD-3-Clause</td><td>Flutter SDK에 포함</td></tr>
+  </tbody>
+</table>
+
+<h2>직접 Dart/Flutter 의존성</h2>
+<p><code>apps/remero/pubspec.yaml</code>에 선언되었으며, <code>pubspec.lock</code>의 해석 버전과 pub cache의 각 패키지 <code>LICENSE</code> 파일을 기준으로 작성했습니다.</p>
+<table>
+  <thead><tr><th>패키지</th><th>버전</th><th>라이선스 유형</th></tr></thead>
+  <tbody>
+        <tr><td>cloud_firestore</td><td>6.5.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>cloud_functions</td><td>6.3.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>connectivity_plus</td><td>6.1.5</td><td>BSD-3-Clause</td></tr>
+        <tr><td>crop_your_image</td><td>2.0.0</td><td>Apache-2.0</td></tr>
+        <tr><td>cupertino_icons</td><td>1.0.9</td><td>MIT</td></tr>
+        <tr><td>firebase_auth</td><td>6.5.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>firebase_core</td><td>4.10.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>firebase_storage</td><td>13.4.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>flutter_image_compress</td><td>2.4.0</td><td>MIT</td></tr>
+        <tr><td>flutter_svg</td><td>2.3.0</td><td>MIT</td></tr>
+        <tr><td>image_picker</td><td>1.2.2</td><td>Apache-2.0</td></tr>
+        <tr><td>in_app_purchase</td><td>3.3.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>intl</td><td>0.20.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>path_provider</td><td>2.1.5</td><td>BSD-3-Clause</td></tr>
+        <tr><td>share_plus</td><td>11.1.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>shared_preferences</td><td>2.5.5</td><td>BSD-3-Clause</td></tr>
+        <tr><td>url_launcher</td><td>6.3.2</td><td>BSD-3-Clause</td></tr>
+  </tbody>
+</table>
+
+<h2>전이(transitive) Dart/Flutter 의존성</h2>
+<p>위 직접 의존성을 통해 함께 포함되는 추가 패키지(120개)입니다.</p>
+<table>
+  <thead><tr><th>패키지</th><th>버전</th><th>라이선스 유형</th></tr></thead>
+  <tbody>
+        <tr><td>_flutterfire_internals</td><td>1.3.72</td><td>BSD-3-Clause</td></tr>
+        <tr><td>antlr4</td><td>4.13.2</td><td>MIT</td></tr>
+        <tr><td>archive</td><td>4.0.9</td><td>MIT</td></tr>
+        <tr><td>args</td><td>2.7.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>async</td><td>2.13.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>boolean_selector</td><td>2.1.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>cel</td><td>0.5.4+1</td><td>MIT</td></tr>
+        <tr><td>characters</td><td>1.4.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>clock</td><td>1.1.2</td><td>Apache-2.0</td></tr>
+        <tr><td>cloud_firestore_platform_interface</td><td>8.0.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>cloud_firestore_web</td><td>5.5.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>cloud_functions_platform_interface</td><td>6.0.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>cloud_functions_web</td><td>5.1.8</td><td>BSD-3-Clause</td></tr>
+        <tr><td>code_assets</td><td>1.2.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>collection</td><td>1.19.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>connectivity_plus_platform_interface</td><td>2.1.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>cross_file</td><td>0.3.5+2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>crypto</td><td>3.0.7</td><td>BSD-3-Clause</td></tr>
+        <tr><td>dbus</td><td>0.7.14</td><td>MPL-2.0</td></tr>
+        <tr><td>equatable</td><td>2.0.8</td><td>MIT</td></tr>
+        <tr><td>fake_async</td><td>1.3.3</td><td>Apache-2.0</td></tr>
+        <tr><td>fake_firebase_security_rules</td><td>0.5.4</td><td>MIT</td></tr>
+        <tr><td>ffi</td><td>2.2.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>file</td><td>7.0.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>file_selector_linux</td><td>0.9.4</td><td>BSD-3-Clause</td></tr>
+        <tr><td>file_selector_macos</td><td>0.9.5</td><td>BSD-3-Clause</td></tr>
+        <tr><td>file_selector_platform_interface</td><td>2.7.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>file_selector_windows</td><td>0.9.3+5</td><td>BSD-3-Clause</td></tr>
+        <tr><td>firebase_auth_platform_interface</td><td>9.0.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>firebase_auth_web</td><td>6.2.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>firebase_core_platform_interface</td><td>7.0.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>firebase_core_web</td><td>3.8.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>firebase_storage_platform_interface</td><td>6.0.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>firebase_storage_web</td><td>3.11.8</td><td>BSD-3-Clause</td></tr>
+        <tr><td>fixnum</td><td>1.1.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>flutter_image_compress_common</td><td>1.0.6</td><td>MIT</td></tr>
+        <tr><td>flutter_image_compress_macos</td><td>1.0.3</td><td>MIT</td></tr>
+        <tr><td>flutter_image_compress_ohos</td><td>0.0.3</td><td>MIT</td></tr>
+        <tr><td>flutter_image_compress_platform_interface</td><td>1.0.5</td><td>MIT</td></tr>
+        <tr><td>flutter_image_compress_web</td><td>0.1.5</td><td>MIT</td></tr>
+        <tr><td>flutter_plugin_android_lifecycle</td><td>2.0.34</td><td>BSD-3-Clause</td></tr>
+        <tr><td>hooks</td><td>2.0.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>http</td><td>1.6.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>http_parser</td><td>4.1.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>image</td><td>4.8.0</td><td>MIT</td></tr>
+        <tr><td>image_picker_android</td><td>0.8.13+17</td><td>Apache-2.0</td></tr>
+        <tr><td>image_picker_for_web</td><td>3.1.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>image_picker_ios</td><td>0.8.13+6</td><td>Apache-2.0</td></tr>
+        <tr><td>image_picker_linux</td><td>0.2.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>image_picker_macos</td><td>0.2.2+1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>image_picker_platform_interface</td><td>2.11.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>image_picker_windows</td><td>0.2.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>in_app_purchase_android</td><td>0.5.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>in_app_purchase_platform_interface</td><td>1.4.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>in_app_purchase_storekit</td><td>0.4.10</td><td>BSD-3-Clause</td></tr>
+        <tr><td>jni</td><td>1.0.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>jni_flutter</td><td>1.0.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>json_annotation</td><td>4.12.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>leak_tracker</td><td>11.0.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>leak_tracker_flutter_testing</td><td>3.0.10</td><td>BSD-3-Clause</td></tr>
+        <tr><td>leak_tracker_testing</td><td>3.0.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>lints</td><td>6.1.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>logger</td><td>2.7.0</td><td>MIT</td></tr>
+        <tr><td>logging</td><td>1.3.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>matcher</td><td>0.12.19</td><td>BSD-3-Clause</td></tr>
+        <tr><td>material_color_utilities</td><td>0.13.0</td><td>Apache-2.0</td></tr>
+        <tr><td>meta</td><td>1.18.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>mime</td><td>2.0.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>mock_exceptions</td><td>0.8.2</td><td>MIT</td></tr>
+        <tr><td>more</td><td>4.7.0</td><td>MIT</td></tr>
+        <tr><td>nm</td><td>0.5.0</td><td>MPL-2.0</td></tr>
+        <tr><td>objective_c</td><td>9.4.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>package_config</td><td>2.2.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>path</td><td>1.9.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>path_parsing</td><td>1.1.0</td><td>MIT</td></tr>
+        <tr><td>path_provider_android</td><td>2.3.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>path_provider_foundation</td><td>2.6.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>path_provider_linux</td><td>2.2.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>path_provider_platform_interface</td><td>2.1.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>path_provider_windows</td><td>2.3.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>petitparser</td><td>7.0.2</td><td>MIT</td></tr>
+        <tr><td>platform</td><td>3.1.6</td><td>BSD-3-Clause</td></tr>
+        <tr><td>plugin_platform_interface</td><td>2.1.8</td><td>BSD-3-Clause</td></tr>
+        <tr><td>posix</td><td>6.5.0</td><td>MIT</td></tr>
+        <tr><td>pub_semver</td><td>2.2.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>record_use</td><td>0.6.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>rx</td><td>0.4.0</td><td>MIT</td></tr>
+        <tr><td>rxdart</td><td>0.28.0</td><td>Apache-2.0</td></tr>
+        <tr><td>share_plus_platform_interface</td><td>6.1.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>shared_preferences_android</td><td>2.4.23</td><td>BSD-3-Clause</td></tr>
+        <tr><td>shared_preferences_foundation</td><td>2.5.6</td><td>BSD-3-Clause</td></tr>
+        <tr><td>shared_preferences_linux</td><td>2.4.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>shared_preferences_platform_interface</td><td>2.4.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>shared_preferences_web</td><td>2.4.3</td><td>BSD-3-Clause</td></tr>
+        <tr><td>shared_preferences_windows</td><td>2.4.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>source_span</td><td>1.10.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>stack_trace</td><td>1.12.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>stream_channel</td><td>2.1.4</td><td>BSD-3-Clause</td></tr>
+        <tr><td>string_scanner</td><td>1.4.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>term_glyph</td><td>1.2.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>test_api</td><td>0.7.11</td><td>BSD-3-Clause</td></tr>
+        <tr><td>typed_data</td><td>1.4.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>url_launcher_android</td><td>6.3.32</td><td>BSD-3-Clause</td></tr>
+        <tr><td>url_launcher_ios</td><td>6.4.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>url_launcher_linux</td><td>3.2.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>url_launcher_macos</td><td>3.2.5</td><td>BSD-3-Clause</td></tr>
+        <tr><td>url_launcher_platform_interface</td><td>2.3.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>url_launcher_web</td><td>2.4.3</td><td>BSD-3-Clause</td></tr>
+        <tr><td>url_launcher_windows</td><td>3.1.5</td><td>BSD-3-Clause</td></tr>
+        <tr><td>uuid</td><td>4.5.3</td><td>MIT</td></tr>
+        <tr><td>vector_graphics</td><td>1.2.2</td><td>BSD-3-Clause</td></tr>
+        <tr><td>vector_graphics_codec</td><td>1.1.13</td><td>BSD-3-Clause</td></tr>
+        <tr><td>vector_graphics_compiler</td><td>1.2.3</td><td>BSD-3-Clause</td></tr>
+        <tr><td>vector_math</td><td>2.2.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>vm_service</td><td>15.2.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>web</td><td>1.1.1</td><td>BSD-3-Clause</td></tr>
+        <tr><td>win32</td><td>5.15.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>xdg_directories</td><td>1.1.0</td><td>BSD-3-Clause</td></tr>
+        <tr><td>xml</td><td>6.6.1</td><td>MIT</td></tr>
+        <tr><td>yaml</td><td>3.1.3</td><td>MIT</td></tr>
+  </tbody>
+</table>
+
+<h2>라이선스 유형 요약 (Dart/Flutter 패키지)</h2>
+<table>
+  <thead><tr><th>라이선스 유형</th><th>패키지 수</th></tr></thead>
+  <tbody>
+        <tr><td>BSD-3-Clause</td><td>103</td></tr>
+        <tr><td>MIT</td><td>24</td></tr>
+        <tr><td>Apache-2.0</td><td>8</td></tr>
+        <tr><td>MPL-2.0</td><td>2</td></tr>
+  </tbody>
+</table>
+
+<h2>네이티브 플랫폼 구성요소</h2>
+<p>Remero 릴리스 빌드에는 Gradle/CocoaPods를 통해 Android/iOS 네이티브 라이브러리(Firebase, Google Play services, AndroidX, 스토어 결제 SDK 등)도 포함됩니다. 이들은 <code>pubspec.lock</code>에 나열되지 않습니다.</p>
+<p><strong>Needs verification:</strong> 최종 스토어 제출 전 릴리스 빌드 산출물(예: Android <code>third_party_licenses.txt</code>, 병합 <code>NOTICES</code>)에서 네이티브 제3자 라이선스 전체 목록을 생성·검증해야 합니다.</p>
+
+<h2>Needs verification</h2>
+<ul>
+  <li>Remero 1.0.0+23 릴리스 APK/IPA에 포함된 네이티브 Android/iOS SDK 목록 및 라이선스 전문.</li>
+  <li>향후 lockfile 변경으로 upstream <code>LICENSE</code> 파일이 바뀌는 경우 해당 패키지의 라이선스 유형.</li>
+</ul>
+
+<h2>문의</h2>
+<p>누락되거나 부정확한 라이선스 고지가 있다고 생각하는 경우 <a href="mailto:support@meroviq.com">support@meroviq.com</a>으로 연락해 주세요.</p>
+
+<footer><p><a href="/privacy/">Privacy Policy</a> · <a href="/terms/">Terms of Service</a> · <a href="/delete/">Account and Data Deletion</a></p></footer>
+</main>
 </body>
 </html>
