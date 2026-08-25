@@ -11,3 +11,4 @@ Primary Play Console URLs:
 
 Current legal document version: 1.0
 Effective date: June 21, 2026
+Last updated: August 25, 2026 (Premium: Apple App Store + Google Play)
