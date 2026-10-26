@@ -27,9 +27,9 @@ Scope: PR #2, KO/EN/ES Terms, global/EEA-UK-Switzerland/California Privacy, acco
 - Keyboard/screen-reader and physical mobile-device testing were not performed. Source/HTML semantic checks and desktop Chrome emulation are not those tests.
 - Public-site deployment and post-deployment verification: pending.
 
-## Remaining operating confirmation
+## Operator-confirmed operating commitments
 
-Existing published commitments to review reports within 24 hours and retain deleted backups for at most 90 days are preserved. Operator confirmation was requested because code and rollout evidence cannot establish human response practice or actual backup retention. Publication is held until this confirmation is received; no unsupported replacement period has been invented.
+On 2026-10-26 the operator explicitly confirmed that both existing commitments remain in effect: reports are reviewed within 24 hours and deleted data remains in backups for at most 90 days. These commitments are retained unchanged. This is operator confirmation, not an independent SLA measurement or backup purge test. Publication is authorized; the operating-confirmation hold is cleared.
 
 ## Limits
 
