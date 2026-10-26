@@ -1,6 +1,6 @@
 # Remero Legal: Spanish locale and moderation disclosure review
 
-Prepared: 2026-10-26. Staged on a separate branch; production publication requires separate approval.
+Prepared: 2026-10-26. Historical preparation review. The user subsequently authorized final corrections, PR merge and Pages publication after production text-filter rollout. See `PUBLICATION_REVIEW_20261026.md` for the current checks and remaining limits.
 
 ## Coverage
 
