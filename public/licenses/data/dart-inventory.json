@@ -1,0 +1,2030 @@
+[
+  {
+    "name": "_flutterfire_internals",
+    "version": "1.3.72",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/_flutterfire_internals-1.3.72-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "antlr4",
+    "version": "4.13.2",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "MIT",
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/antlr4-4.13.2-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "app_links",
+    "version": "6.4.1",
+    "dependency": "direct main",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "Apache-2.0"
+    ],
+    "texts": [
+      "data/dart/app_links-6.4.1-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "app_links_linux",
+    "version": "1.0.3",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "Apache-2.0"
+    ],
+    "texts": [
+      "data/dart/app_links_linux-1.0.3-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "app_links_platform_interface",
+    "version": "2.0.4",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "Apache-2.0"
+    ],
+    "texts": [
+      "data/dart/app_links_platform_interface-2.0.4-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "app_links_web",
+    "version": "1.0.4",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "Apache-2.0"
+    ],
+    "texts": [
+      "data/dart/app_links_web-1.0.4-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "archive",
+    "version": "4.0.9",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "MIT"
+    ],
+    "texts": [
+      "data/dart/archive-4.0.9-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "args",
+    "version": "2.7.0",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/args-2.7.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "asn1lib",
+    "version": "1.6.5",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/asn1lib-1.6.5-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "async",
+    "version": "2.13.1",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/async-2.13.1-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "boolean_selector",
+    "version": "2.1.2",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/boolean_selector-2.1.2-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "cel",
+    "version": "0.5.4+1",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "MIT"
+    ],
+    "texts": [
+      "data/dart/cel-0.5.4+1-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "characters",
+    "version": "1.4.1",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/characters-1.4.1-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "clock",
+    "version": "1.1.2",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "Apache-2.0"
+    ],
+    "texts": [
+      "data/dart/clock-1.1.2-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "cloud_firestore",
+    "version": "6.5.0",
+    "dependency": "direct main",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/cloud_firestore-6.5.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "cloud_firestore_platform_interface",
+    "version": "8.0.2",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/cloud_firestore_platform_interface-8.0.2-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "cloud_firestore_web",
+    "version": "5.5.0",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/cloud_firestore_web-5.5.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "cloud_functions",
+    "version": "6.3.2",
+    "dependency": "direct main",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/cloud_functions-6.3.2-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "cloud_functions_platform_interface",
+    "version": "6.0.2",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/cloud_functions_platform_interface-6.0.2-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "cloud_functions_web",
+    "version": "5.1.8",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/cloud_functions_web-5.1.8-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "code_assets",
+    "version": "1.2.1",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/code_assets-1.2.1-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "collection",
+    "version": "1.19.1",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/collection-1.19.1-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "connectivity_plus",
+    "version": "6.1.5",
+    "dependency": "direct main",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/connectivity_plus-6.1.5-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "connectivity_plus_platform_interface",
+    "version": "2.1.0",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/connectivity_plus_platform_interface-2.1.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "convert",
+    "version": "3.1.2",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/convert-3.1.2-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "crop_your_image",
+    "version": "2.0.0",
+    "dependency": "direct main",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "Apache-2.0"
+    ],
+    "texts": [
+      "data/dart/crop_your_image-2.0.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "cross_file",
+    "version": "0.3.5+2",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/cross_file-0.3.5+2-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "crypto",
+    "version": "3.0.7",
+    "dependency": "direct main",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/crypto-3.0.7-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "cupertino_icons",
+    "version": "1.0.9",
+    "dependency": "direct main",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "MIT"
+    ],
+    "texts": [
+      "data/dart/cupertino_icons-1.0.9-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "dbus",
+    "version": "0.7.14",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "MPL-2.0"
+    ],
+    "texts": [
+      "data/dart/dbus-0.7.14-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "dio",
+    "version": "5.11.0",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "MIT"
+    ],
+    "texts": [
+      "data/dart/dio-5.11.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "dio_web_adapter",
+    "version": "2.2.1",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "MIT"
+    ],
+    "texts": [
+      "data/dart/dio_web_adapter-2.2.1-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "encrypt",
+    "version": "5.0.3",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/encrypt-5.0.3-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "equatable",
+    "version": "2.0.8",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "MIT"
+    ],
+    "texts": [
+      "data/dart/equatable-2.0.8-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "fake_async",
+    "version": "1.3.3",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "Apache-2.0"
+    ],
+    "texts": [
+      "data/dart/fake_async-1.3.3-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "fake_cloud_firestore",
+    "version": "4.1.1",
+    "dependency": "direct dev",
+    "scope": "development only",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/fake_cloud_firestore-4.1.1-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "fake_firebase_security_rules",
+    "version": "0.5.4",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "MIT"
+    ],
+    "texts": [
+      "data/dart/fake_firebase_security_rules-0.5.4-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "ffi",
+    "version": "2.2.0",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/ffi-2.2.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "file",
+    "version": "7.0.1",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/file-7.0.1-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "file_selector_linux",
+    "version": "0.9.4",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/file_selector_linux-0.9.4-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "file_selector_macos",
+    "version": "0.9.5",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/file_selector_macos-0.9.5-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "file_selector_platform_interface",
+    "version": "2.7.0",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/file_selector_platform_interface-2.7.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "file_selector_windows",
+    "version": "0.9.3+5",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/file_selector_windows-0.9.3+5-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "firebase_auth",
+    "version": "6.5.2",
+    "dependency": "direct main",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/firebase_auth-6.5.2-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "firebase_auth_platform_interface",
+    "version": "9.0.2",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/firebase_auth_platform_interface-9.0.2-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "firebase_auth_web",
+    "version": "6.2.2",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/firebase_auth_web-6.2.2-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "firebase_core",
+    "version": "4.10.0",
+    "dependency": "direct main",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/firebase_core-4.10.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "firebase_core_platform_interface",
+    "version": "7.0.1",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/firebase_core_platform_interface-7.0.1-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "firebase_core_web",
+    "version": "3.8.0",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/firebase_core_web-3.8.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "firebase_storage",
+    "version": "13.4.2",
+    "dependency": "direct main",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/firebase_storage-13.4.2-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "firebase_storage_platform_interface",
+    "version": "6.0.2",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/firebase_storage_platform_interface-6.0.2-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "firebase_storage_web",
+    "version": "3.11.8",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/firebase_storage_web-3.11.8-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "fixnum",
+    "version": "1.1.1",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/fixnum-1.1.1-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "flutter",
+    "version": "0.0.0",
+    "dependency": "direct main",
+    "scope": "Flutter 3.44.0 SDK package; 0.0.0 is the lockfile SDK placeholder, not a pub.dev release",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/flutter-0.0.0-LICENSE.txt"
+    ],
+    "source": "https://github.com/flutter/flutter/tree/3.44.0/packages/flutter"
+  },
+  {
+    "name": "flutter_image_compress",
+    "version": "2.4.0",
+    "dependency": "direct main",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "MIT"
+    ],
+    "texts": [
+      "data/dart/flutter_image_compress-2.4.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "flutter_image_compress_common",
+    "version": "1.0.6",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "MIT"
+    ],
+    "texts": [
+      "data/dart/flutter_image_compress_common-1.0.6-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "flutter_image_compress_macos",
+    "version": "1.0.3",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "MIT"
+    ],
+    "texts": [
+      "data/dart/flutter_image_compress_macos-1.0.3-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "flutter_image_compress_ohos",
+    "version": "0.0.3",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "MIT"
+    ],
+    "texts": [
+      "data/dart/flutter_image_compress_ohos-0.0.3-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "flutter_image_compress_platform_interface",
+    "version": "1.0.5",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "MIT"
+    ],
+    "texts": [
+      "data/dart/flutter_image_compress_platform_interface-1.0.5-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "flutter_image_compress_web",
+    "version": "0.1.5",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "MIT"
+    ],
+    "texts": [
+      "data/dart/flutter_image_compress_web-0.1.5-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "flutter_lints",
+    "version": "6.0.0",
+    "dependency": "direct dev",
+    "scope": "development only",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/flutter_lints-6.0.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "flutter_localizations",
+    "version": "0.0.0",
+    "dependency": "direct main",
+    "scope": "Flutter 3.44.0 SDK package; 0.0.0 is the lockfile SDK placeholder, not a pub.dev release",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/flutter_localizations-0.0.0-LICENSE.txt"
+    ],
+    "source": "https://github.com/flutter/flutter/tree/3.44.0/packages/flutter_localizations"
+  },
+  {
+    "name": "flutter_plugin_android_lifecycle",
+    "version": "2.0.34",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/flutter_plugin_android_lifecycle-2.0.34-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "flutter_svg",
+    "version": "2.3.0",
+    "dependency": "direct main",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "MIT"
+    ],
+    "texts": [
+      "data/dart/flutter_svg-2.3.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "flutter_test",
+    "version": "0.0.0",
+    "dependency": "direct dev",
+    "scope": "Flutter 3.44.0 SDK package; 0.0.0 is the lockfile SDK placeholder, not a pub.dev release",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/flutter_test-0.0.0-LICENSE.txt"
+    ],
+    "source": "https://github.com/flutter/flutter/tree/3.44.0/packages/flutter_test"
+  },
+  {
+    "name": "flutter_web_plugins",
+    "version": "0.0.0",
+    "dependency": "transitive",
+    "scope": "Flutter 3.44.0 SDK package; 0.0.0 is the lockfile SDK placeholder, not a pub.dev release",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/flutter_web_plugins-0.0.0-LICENSE.txt"
+    ],
+    "source": "https://github.com/flutter/flutter/tree/3.44.0/packages/flutter_web_plugins"
+  },
+  {
+    "name": "google_identity_services_web",
+    "version": "0.3.3+1",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/google_identity_services_web-0.3.3+1-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "google_sign_in",
+    "version": "6.3.0",
+    "dependency": "direct main",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/google_sign_in-6.3.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "google_sign_in_android",
+    "version": "6.2.1",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/google_sign_in_android-6.2.1-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "google_sign_in_ios",
+    "version": "5.9.0",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/google_sign_in_ios-5.9.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "google_sign_in_platform_interface",
+    "version": "2.5.0",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/google_sign_in_platform_interface-2.5.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "google_sign_in_web",
+    "version": "0.12.4+4",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/google_sign_in_web-0.12.4+4-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "gtk",
+    "version": "2.2.0",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "MPL-2.0"
+    ],
+    "texts": [
+      "data/dart/gtk-2.2.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "hooks",
+    "version": "2.0.2",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/hooks-2.0.2-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "http",
+    "version": "1.6.0",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/http-1.6.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "http_parser",
+    "version": "4.1.2",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/http_parser-4.1.2-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "image",
+    "version": "4.8.0",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "MIT"
+    ],
+    "texts": [
+      "data/dart/image-4.8.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "image_picker",
+    "version": "1.2.2",
+    "dependency": "direct main",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "Apache-2.0",
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/image_picker-1.2.2-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "image_picker_android",
+    "version": "0.8.13+17",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "Apache-2.0",
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/image_picker_android-0.8.13+17-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "image_picker_for_web",
+    "version": "3.1.1",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/image_picker_for_web-3.1.1-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "image_picker_ios",
+    "version": "0.8.13+6",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "Apache-2.0",
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/image_picker_ios-0.8.13+6-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "image_picker_linux",
+    "version": "0.2.2",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/image_picker_linux-0.2.2-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "image_picker_macos",
+    "version": "0.2.2+1",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/image_picker_macos-0.2.2+1-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "image_picker_platform_interface",
+    "version": "2.11.1",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/image_picker_platform_interface-2.11.1-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "image_picker_windows",
+    "version": "0.2.2",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/image_picker_windows-0.2.2-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "in_app_purchase",
+    "version": "3.3.0",
+    "dependency": "direct main",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/in_app_purchase-3.3.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "in_app_purchase_android",
+    "version": "0.5.1",
+    "dependency": "direct main",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/in_app_purchase_android-0.5.1-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "in_app_purchase_platform_interface",
+    "version": "1.4.1",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/in_app_purchase_platform_interface-1.4.1-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "in_app_purchase_storekit",
+    "version": "0.4.10",
+    "dependency": "direct main",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/in_app_purchase_storekit-0.4.10-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "intl",
+    "version": "0.20.2",
+    "dependency": "direct main",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/intl-0.20.2-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "jni",
+    "version": "1.0.0",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/jni-1.0.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "jni_flutter",
+    "version": "1.0.1",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/jni_flutter-1.0.1-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "js",
+    "version": "0.7.2",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/js-0.7.2-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "json_annotation",
+    "version": "4.12.0",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/json_annotation-4.12.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "kakao_flutter_sdk_auth",
+    "version": "2.0.1",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "Apache-2.0"
+    ],
+    "texts": [
+      "data/dart/kakao_flutter_sdk_auth-2.0.1-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "kakao_flutter_sdk_common",
+    "version": "2.0.1",
+    "dependency": "direct main",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "Apache-2.0"
+    ],
+    "texts": [
+      "data/dart/kakao_flutter_sdk_common-2.0.1-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "kakao_flutter_sdk_user",
+    "version": "2.0.1",
+    "dependency": "direct main",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "Apache-2.0"
+    ],
+    "texts": [
+      "data/dart/kakao_flutter_sdk_user-2.0.1-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "leak_tracker",
+    "version": "11.0.2",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/leak_tracker-11.0.2-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "leak_tracker_flutter_testing",
+    "version": "3.0.10",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/leak_tracker_flutter_testing-3.0.10-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "leak_tracker_testing",
+    "version": "3.0.2",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/leak_tracker_testing-3.0.2-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "lints",
+    "version": "6.1.0",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/lints-6.1.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "logger",
+    "version": "2.7.0",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "MIT"
+    ],
+    "texts": [
+      "data/dart/logger-2.7.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "logging",
+    "version": "1.3.0",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/logging-1.3.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "matcher",
+    "version": "0.12.19",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/matcher-0.12.19-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "material_color_utilities",
+    "version": "0.13.0",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "Apache-2.0"
+    ],
+    "texts": [
+      "data/dart/material_color_utilities-0.13.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "meta",
+    "version": "1.18.0",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/meta-1.18.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "mime",
+    "version": "2.0.0",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/mime-2.0.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "mock_exceptions",
+    "version": "0.8.2",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "MIT"
+    ],
+    "texts": [
+      "data/dart/mock_exceptions-0.8.2-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "more",
+    "version": "4.7.0",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "MIT"
+    ],
+    "texts": [
+      "data/dart/more-4.7.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "nm",
+    "version": "0.5.0",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "MPL-2.0"
+    ],
+    "texts": [
+      "data/dart/nm-0.5.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "objective_c",
+    "version": "9.4.1",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/objective_c-9.4.1-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "package_config",
+    "version": "2.2.0",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/package_config-2.2.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "path",
+    "version": "1.9.1",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/path-1.9.1-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "path_parsing",
+    "version": "1.1.0",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "MIT"
+    ],
+    "texts": [
+      "data/dart/path_parsing-1.1.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "path_provider",
+    "version": "2.1.5",
+    "dependency": "direct main",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/path_provider-2.1.5-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "path_provider_android",
+    "version": "2.3.1",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/path_provider_android-2.3.1-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "path_provider_foundation",
+    "version": "2.6.0",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/path_provider_foundation-2.6.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "path_provider_linux",
+    "version": "2.2.1",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/path_provider_linux-2.2.1-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "path_provider_platform_interface",
+    "version": "2.1.2",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/path_provider_platform_interface-2.1.2-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "path_provider_windows",
+    "version": "2.3.0",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/path_provider_windows-2.3.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "petitparser",
+    "version": "7.0.2",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "MIT"
+    ],
+    "texts": [
+      "data/dart/petitparser-7.0.2-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "platform",
+    "version": "3.1.6",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/platform-3.1.6-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "plugin_platform_interface",
+    "version": "2.1.8",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/plugin_platform_interface-2.1.8-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "pointycastle",
+    "version": "3.9.1",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "MIT"
+    ],
+    "texts": [
+      "data/dart/pointycastle-3.9.1-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "posix",
+    "version": "6.5.0",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "MIT"
+    ],
+    "texts": [
+      "data/dart/posix-6.5.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "pub_semver",
+    "version": "2.2.0",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/pub_semver-2.2.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "record_use",
+    "version": "0.6.0",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/record_use-0.6.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "rx",
+    "version": "0.4.0",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "MIT"
+    ],
+    "texts": [
+      "data/dart/rx-0.4.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "rxdart",
+    "version": "0.28.0",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "Apache-2.0"
+    ],
+    "texts": [
+      "data/dart/rxdart-0.28.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "share_plus",
+    "version": "11.1.0",
+    "dependency": "direct main",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/share_plus-11.1.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "share_plus_platform_interface",
+    "version": "6.1.0",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/share_plus_platform_interface-6.1.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "shared_preferences",
+    "version": "2.5.5",
+    "dependency": "direct main",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/shared_preferences-2.5.5-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "shared_preferences_android",
+    "version": "2.4.23",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/shared_preferences_android-2.4.23-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "shared_preferences_foundation",
+    "version": "2.5.6",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/shared_preferences_foundation-2.5.6-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "shared_preferences_linux",
+    "version": "2.4.1",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/shared_preferences_linux-2.4.1-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "shared_preferences_platform_interface",
+    "version": "2.4.2",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/shared_preferences_platform_interface-2.4.2-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "shared_preferences_web",
+    "version": "2.4.3",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/shared_preferences_web-2.4.3-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "shared_preferences_windows",
+    "version": "2.4.1",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/shared_preferences_windows-2.4.1-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "sign_in_with_apple",
+    "version": "8.2.0",
+    "dependency": "direct main",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "MIT"
+    ],
+    "texts": [
+      "data/dart/sign_in_with_apple-8.2.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "sign_in_with_apple_platform_interface",
+    "version": "2.0.0",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "MIT"
+    ],
+    "texts": [
+      "data/dart/sign_in_with_apple_platform_interface-2.0.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "sign_in_with_apple_web",
+    "version": "3.0.0",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "MIT"
+    ],
+    "texts": [
+      "data/dart/sign_in_with_apple_web-3.0.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "sky_engine",
+    "version": "0.0.0",
+    "dependency": "transitive",
+    "scope": "Flutter 3.44.0 SDK package; 0.0.0 is the lockfile SDK placeholder, not a pub.dev release",
+    "licenseTypes": [
+      "Apache-2.0",
+      "MIT",
+      "BSD (see exact text)",
+      "MPL-2.0"
+    ],
+    "texts": [
+      "data/dart/sky_engine-0.0.0-LICENSE.txt"
+    ],
+    "source": "https://github.com/flutter/flutter/tree/3.44.0/engine/src/flutter/sky/packages/sky_engine"
+  },
+  {
+    "name": "source_span",
+    "version": "1.10.2",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/source_span-1.10.2-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "stack_trace",
+    "version": "1.12.1",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/stack_trace-1.12.1-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "stream_channel",
+    "version": "2.1.4",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/stream_channel-2.1.4-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "string_scanner",
+    "version": "1.4.1",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/string_scanner-1.4.1-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "term_glyph",
+    "version": "1.2.2",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/term_glyph-1.2.2-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "test_api",
+    "version": "0.7.11",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/test_api-0.7.11-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "typed_data",
+    "version": "1.4.0",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/typed_data-1.4.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "url_launcher",
+    "version": "6.3.2",
+    "dependency": "direct main",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/url_launcher-6.3.2-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "url_launcher_android",
+    "version": "6.3.32",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/url_launcher_android-6.3.32-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "url_launcher_ios",
+    "version": "6.4.1",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/url_launcher_ios-6.4.1-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "url_launcher_linux",
+    "version": "3.2.2",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/url_launcher_linux-3.2.2-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "url_launcher_macos",
+    "version": "3.2.5",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/url_launcher_macos-3.2.5-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "url_launcher_platform_interface",
+    "version": "2.3.2",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/url_launcher_platform_interface-2.3.2-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "url_launcher_web",
+    "version": "2.4.3",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/url_launcher_web-2.4.3-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "url_launcher_windows",
+    "version": "3.1.5",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/url_launcher_windows-3.1.5-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "uuid",
+    "version": "4.5.3",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "MIT"
+    ],
+    "texts": [
+      "data/dart/uuid-4.5.3-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "vector_graphics",
+    "version": "1.2.2",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/vector_graphics-1.2.2-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "vector_graphics_codec",
+    "version": "1.1.13",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/vector_graphics_codec-1.1.13-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "vector_graphics_compiler",
+    "version": "1.2.3",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/vector_graphics_compiler-1.2.3-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "vector_math",
+    "version": "2.2.0",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/vector_math-2.2.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "vm_service",
+    "version": "15.2.0",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/vm_service-15.2.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "web",
+    "version": "1.1.1",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/web-1.1.1-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "win32",
+    "version": "5.15.0",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/win32-5.15.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "xdg_directories",
+    "version": "1.1.0",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "BSD (see exact text)"
+    ],
+    "texts": [
+      "data/dart/xdg_directories-1.1.0-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "xml",
+    "version": "6.6.1",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "MIT"
+    ],
+    "texts": [
+      "data/dart/xml-6.6.1-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "yaml",
+    "version": "3.1.3",
+    "dependency": "transitive",
+    "scope": "resolved dependency; see platform/notice evidence",
+    "licenseTypes": [
+      "MIT"
+    ],
+    "texts": [
+      "data/dart/yaml-3.1.3-LICENSE.txt"
+    ]
+  }
+]

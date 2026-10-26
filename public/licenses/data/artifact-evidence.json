@@ -1,0 +1,13 @@
+{
+  "android": {
+    "path": "remero-1.0.0+46-release.aab",
+    "sha256": "69c760ef46c8a48c21cce92f4851062ccaf94a0b1a1f2f4ad5ae3389e981f393"
+  },
+  "ios": {
+    "path": "Runner.app",
+    "bundle": "com.meroviq.remero",
+    "version": "1.0.0",
+    "build": "45",
+    "appFrameworkSha256": "6c45dbcfe8d030f15b2d27236728751c6b875fc6534b9340566e69502b209658"
+  }
+}

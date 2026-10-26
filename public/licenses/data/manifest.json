@@ -1,0 +1,1568 @@
+[
+  {
+    "file": "Package.resolved.json",
+    "bytes": 4497,
+    "sha256": "19eb0ca1c2902dd191d1ccc698980dbf1d941e4ea639a467ccd020ca7497e3af",
+    "source": "workspace lockfile (unaltered)"
+  },
+  {
+    "file": "Podfile.lock.txt",
+    "bytes": 1525,
+    "sha256": "655dff38912549b274629e4ec632b1f067c22a2580d270b6da21ff3169a4f7b7",
+    "source": "CocoaPods lockfile (unaltered)"
+  },
+  {
+    "file": "SpoqaHanSansNeo-OFL.txt",
+    "bytes": 4562,
+    "sha256": "279753543734e7a1846e3cb3f80d4dcdcc91f49c436411adaba82e3913c61cde",
+    "source": "https://github.com/spoqa/spoqa-han-sans/blob/main/LICENSE; font name-table OFL-1.1 verified"
+  },
+  {
+    "file": "android-artifact-sha256.json",
+    "bytes": 42983,
+    "sha256": "7296d80efd6842a8d324a5b15cc4481d5b39034fd83f070f82bbedb7fd54a820",
+    "source": "pinned upstream original or actual release audit evidence"
+  },
+  {
+    "file": "android-flutter-NOTICES.txt",
+    "bytes": 1463389,
+    "sha256": "63bef5c386c361f98c48e5bdd19f516705bba1c51f37eac7070f160541e51def",
+    "source": "actual android release NOTICES.Z (gzip decompressed)"
+  },
+  {
+    "file": "android-inventory.json",
+    "bytes": 79244,
+    "sha256": "a5234802cf480e36337ede8e2941aef6bb66e19cf6d03466a2f948af642c7581",
+    "source": "actual AAB dependencies.pb + exact-version cached Maven POMs, parent POMs and AAR/JAR NOTICE payloads"
+  },
+  {
+    "file": "android-original/00bdeca73c2a7724261eb7443713e3b4b913ba0907dfe5c4d67d87f3920c1e6e.txt",
+    "bytes": 11368,
+    "sha256": "00bdeca73c2a7724261eb7443713e3b4b913ba0907dfe5c4d67d87f3920c1e6e",
+    "source": "com.google.android.datatransport:transport-runtime:3.1.8 :: third_party_licenses.txt"
+  },
+  {
+    "file": "android-original/00e7208dad893362fe51520a5fca416cba179b1f0b8249553fbdb1f78580f28c.txt",
+    "bytes": 882,
+    "sha256": "00e7208dad893362fe51520a5fca416cba179b1f0b8249553fbdb1f78580f28c",
+    "source": "com.google.android.gms:play-services-location:19.0.0 :: third_party_licenses.json"
+  },
+  {
+    "file": "android-original/081311311550302051220418c2494da5c6b7d4646bbc3a02e8174e53276fca9a.txt",
+    "bytes": 316,
+    "sha256": "081311311550302051220418c2494da5c6b7d4646bbc3a02e8174e53276fca9a",
+    "source": "com.google.android.gms:play-services-stats:17.0.0 :: third_party_licenses.json"
+  },
+  {
+    "file": "android-original/18880a7de5241a64346bb958ab5822c995784e919b49e9e1f9c1f682dd747511.txt",
+    "bytes": 60906,
+    "sha256": "18880a7de5241a64346bb958ab5822c995784e919b49e9e1f9c1f682dd747511",
+    "source": "com.google.android.gms:play-services-cloud-messaging:16.0.0 :: third_party_licenses.txt"
+  },
+  {
+    "file": "android-original/24a3e25a34dae41fd5b06aa6fd2371967357431530f15296a579798af0a51be5.txt",
+    "bytes": 3538,
+    "sha256": "24a3e25a34dae41fd5b06aa6fd2371967357431530f15296a579798af0a51be5",
+    "source": "com.google.android.play:core-common:2.0.3 :: third_party_licenses.json"
+  },
+  {
+    "file": "android-original/35e32e56d0a3ca9700cc65ac093af901a525c039088c122427ccb033c8effc30.txt",
+    "bytes": 490,
+    "sha256": "35e32e56d0a3ca9700cc65ac093af901a525c039088c122427ccb033c8effc30",
+    "source": "com.google.android.gms:play-services-places-placereport:17.0.0 :: third_party_licenses.json"
+  },
+  {
+    "file": "android-original/3909dc60f114cd63b96a3ed0bfb0461ccf1e8002ddad60f5f9e70997fb2f9c1d.txt",
+    "bytes": 4023,
+    "sha256": "3909dc60f114cd63b96a3ed0bfb0461ccf1e8002ddad60f5f9e70997fb2f9c1d",
+    "source": "com.android.billingclient:billing:8.0.0 :: third_party_licenses.json"
+  },
+  {
+    "file": "android-original/41c293181cee152b96b39e91ff808f008e700584917a38b20db0fb324c704ce3.txt",
+    "bytes": 695,
+    "sha256": "41c293181cee152b96b39e91ff808f008e700584917a38b20db0fb324c704ce3",
+    "source": "com.google.android.gms:play-services-cloud-messaging:16.0.0 :: third_party_licenses.json"
+  },
+  {
+    "file": "android-original/452fd1e075e7f778f2a9a3f5440ba99c78356f47539a17bf12aa6275b3b3a937.txt",
+    "bytes": 3298,
+    "sha256": "452fd1e075e7f778f2a9a3f5440ba99c78356f47539a17bf12aa6275b3b3a937",
+    "source": "com.google.android.libraries.identity.googleid:googleid:1.1.0 :: third_party_licenses.json"
+  },
+  {
+    "file": "android-original/47929404f215aa27afdc9eb7afa64950259178c25a8c7e185b0e8984d9dc27c2.txt",
+    "bytes": 1197,
+    "sha256": "47929404f215aa27afdc9eb7afa64950259178c25a8c7e185b0e8984d9dc27c2",
+    "source": "com.google.android.gms:play-services-auth:21.0.0 :: third_party_licenses.json"
+  },
+  {
+    "file": "android-original/483d00a5adc8beaa92a98379044b4734bd635072611cc5165ae0e1956bab0800.txt",
+    "bytes": 360251,
+    "sha256": "483d00a5adc8beaa92a98379044b4734bd635072611cc5165ae0e1956bab0800",
+    "source": "com.google.android.gms:play-services-auth-base:18.0.10 :: third_party_licenses.txt"
+  },
+  {
+    "file": "android-original/4a79af4b66aedbc765879a07c8cf29d51c81d2f71219de1ad5720cfcbe6dbc9d.txt",
+    "bytes": 48532,
+    "sha256": "4a79af4b66aedbc765879a07c8cf29d51c81d2f71219de1ad5720cfcbe6dbc9d",
+    "source": "com.google.android.gms:play-services-stats:17.0.0 :: third_party_licenses.txt"
+  },
+  {
+    "file": "android-original/4f4517bc3cdb75f080e512ac9f6476aac103e246c55c7ce707bad9772c6c9bce.txt",
+    "bytes": 930,
+    "sha256": "4f4517bc3cdb75f080e512ac9f6476aac103e246c55c7ce707bad9772c6c9bce",
+    "source": "com.google.firebase:firebase-auth-interop:20.0.0 :: third_party_licenses.json"
+  },
+  {
+    "file": "android-original/56e2485461e9ce21b8e0390fb9cfd6e2647542dce0a10af75b57c32c3e1bf880.txt",
+    "bytes": 819256,
+    "sha256": "56e2485461e9ce21b8e0390fb9cfd6e2647542dce0a10af75b57c32c3e1bf880",
+    "source": "com.android.billingclient:billing:8.0.0 :: third_party_licenses.txt"
+  },
+  {
+    "file": "android-original/595d1465948451029220e742878837f4b1cf92acdd04c5e5b4f7b28bfbd8ca4f.txt",
+    "bytes": 733528,
+    "sha256": "595d1465948451029220e742878837f4b1cf92acdd04c5e5b4f7b28bfbd8ca4f",
+    "source": "com.google.firebase:firebase-auth:24.1.0 :: third_party_licenses.txt"
+  },
+  {
+    "file": "android-original/5c733d3e2ea6117b49c1f0a773702bf1c5a3a38b7fc2ff2299dc6931cfc0013b.txt",
+    "bytes": 11940,
+    "sha256": "5c733d3e2ea6117b49c1f0a773702bf1c5a3a38b7fc2ff2299dc6931cfc0013b",
+    "source": "com.google.firebase:firebase-functions:22.1.1 :: third_party_licenses.txt"
+  },
+  {
+    "file": "android-original/653d2e7a2bb02c79b897e826df9c3b2d8e8b1a3b2cef5e29585124fa455ddaf5.txt",
+    "bytes": 313001,
+    "sha256": "653d2e7a2bb02c79b897e826df9c3b2d8e8b1a3b2cef5e29585124fa455ddaf5",
+    "source": "com.google.android.gms:play-services-auth-api-phone:18.0.2 :: third_party_licenses.txt"
+  },
+  {
+    "file": "android-original/809fa1ed21450f59827d1e9aec720bbc4b687434fa22283c6cb5dd82a47ab9c0.txt",
+    "bytes": 10175,
+    "sha256": "809fa1ed21450f59827d1e9aec720bbc4b687434fa22283c6cb5dd82a47ab9c0",
+    "source": "androidx.annotation:annotation-jvm:1.10.0 :: META-INF/androidx/annotation/annotation/LICENSE.txt; androidx.core:core:1.18.0 :: META-INF/androidx/core/core/LICENSE.txt; androidx.core:core-viewtree:1.0.0 :: META-INF/androidx/core/core-viewtree/LICENSE.txt; androidx.profileinstaller:profileinstaller:1.4.0 :: META-INF/androidx/profileinstaller/profileinstaller/LICENSE.txt; androidx.core:core-ktx:1.18.0 :: META-INF/androidx/core/core-ktx/LICENSE.txt; androidx.activity:activity:1.12.4 :: META-INF/androidx/activity/activity/LICENSE.txt; androidx.navigationevent:navigationevent-android:1.0.2 :: META-INF/androidx/navigationevent/navigationevent/LICENSE.txt; androidx.compose.runtime:runtime-annotation-android:1.9.0 :: META-INF/androidx/compose/runtime/runtime-annotation/LICENSE.txt; androidx.activity:activity-ktx:1.12.4 :: META-INF/androidx/activity/activity-ktx/LICENSE.txt; androidx.exifinterface:exifinterface:1.4.2 :: META-INF/androidx/exifinterface/exifinterface/LICENSE.txt; androidx.browser:browser:1.9.0 :: META-INF/androidx/browser/browser/LICENSE.txt"
+  },
+  {
+    "file": "android-original/80f044f8fb4473537b5b2d4e52b42b525622b17c6eea0975416df38b807e4eeb.txt",
+    "bytes": 71668,
+    "sha256": "80f044f8fb4473537b5b2d4e52b42b525622b17c6eea0975416df38b807e4eeb",
+    "source": "com.google.firebase:firebase-iid-interop:17.1.0 :: third_party_licenses.txt"
+  },
+  {
+    "file": "android-original/8a9c58fbded5ea3474315e4a9824ca8b1486098a1a03e897e0b19419d5e1876a.txt",
+    "bytes": 218,
+    "sha256": "8a9c58fbded5ea3474315e4a9824ca8b1486098a1a03e897e0b19419d5e1876a",
+    "source": "com.squareup.okhttp3:okhttp:4.12.0 :: okhttp3/internal/publicsuffix/NOTICE"
+  },
+  {
+    "file": "android-original/8c6db340475136df3c1201d458fa5755698eace76e510471ecc9d857d6083dac.txt",
+    "bytes": 11359,
+    "sha256": "8c6db340475136df3c1201d458fa5755698eace76e510471ecc9d857d6083dac",
+    "source": "commons-io:commons-io:2.6 :: META-INF/LICENSE.txt"
+  },
+  {
+    "file": "android-original/96447eaacb7772bb775302679409655c08beb5c713cc718f071a8034cf0ac6d4.txt",
+    "bytes": 362977,
+    "sha256": "96447eaacb7772bb775302679409655c08beb5c713cc718f071a8034cf0ac6d4",
+    "source": "com.google.android.gms:play-services-auth:21.0.0 :: third_party_licenses.txt"
+  },
+  {
+    "file": "android-original/9d7c559bdac539a6f4135afc0024b71ed8c3ef6b570a614e493f22565dd83480.txt",
+    "bytes": 4207,
+    "sha256": "9d7c559bdac539a6f4135afc0024b71ed8c3ef6b570a614e493f22565dd83480",
+    "source": "com.google.android.recaptcha:recaptcha:18.6.1 :: third_party_licenses.json"
+  },
+  {
+    "file": "android-original/a344fdfbc3f94c9a41cd14d413bc9075a468eda20b2a0308b35929a572f07e71.txt",
+    "bytes": 83057,
+    "sha256": "a344fdfbc3f94c9a41cd14d413bc9075a468eda20b2a0308b35929a572f07e71",
+    "source": "com.google.android.gms:play-services-location:19.0.0 :: third_party_licenses.txt"
+  },
+  {
+    "file": "android-original/aae38bb659caba3bb99cdb5fbbceecf433806ebe5053a441dcd4135aadf564dc.txt",
+    "bytes": 83060,
+    "sha256": "aae38bb659caba3bb99cdb5fbbceecf433806ebe5053a441dcd4135aadf564dc",
+    "source": "com.google.firebase:firebase-auth-interop:20.0.0 :: third_party_licenses.txt"
+  },
+  {
+    "file": "android-original/af106893a5827deaa5ded6f7ad9db71a8d6cc21b4e814627334acabe07634b65.txt",
+    "bytes": 55737,
+    "sha256": "af106893a5827deaa5ded6f7ad9db71a8d6cc21b4e814627334acabe07634b65",
+    "source": "com.google.android.gms:play-services-places-placereport:17.0.0 :: third_party_licenses.txt"
+  },
+  {
+    "file": "android-original/b1e8b90009e5923f5cd70311055d68cf64f898587bdcae9ca51186d0f7229520.txt",
+    "bytes": 163680,
+    "sha256": "b1e8b90009e5923f5cd70311055d68cf64f898587bdcae9ca51186d0f7229520",
+    "source": "com.google.firebase:firebase-iid:21.1.0 :: third_party_licenses.txt"
+  },
+  {
+    "file": "android-original/c24c8840650fb045069d5b9d37bae5a0e58338c546a6845053d933741ed77878.txt",
+    "bytes": 895,
+    "sha256": "c24c8840650fb045069d5b9d37bae5a0e58338c546a6845053d933741ed77878",
+    "source": "com.google.android.gms:play-services-tasks:18.4.0 :: third_party_licenses.json; com.google.android.gms:play-services-basement:18.9.0 :: third_party_licenses.json; com.google.android.gms:play-services-base:18.9.0 :: third_party_licenses.json"
+  },
+  {
+    "file": "android-original/c573214dd8c3343fb2f3b9183199387b0dbadb5fdb56148d87ea4bc87a6c1e25.txt",
+    "bytes": 81,
+    "sha256": "c573214dd8c3343fb2f3b9183199387b0dbadb5fdb56148d87ea4bc87a6c1e25",
+    "source": "com.google.firebase:firebase-functions:22.1.1 :: third_party_licenses.json"
+  },
+  {
+    "file": "android-original/c5c2a7dc47c4389f3f1f59fc5bfde822badc000582e1b7265461423b84cb2e18.txt",
+    "bytes": 1922,
+    "sha256": "c5c2a7dc47c4389f3f1f59fc5bfde822badc000582e1b7265461423b84cb2e18",
+    "source": "com.google.firebase:firebase-auth:24.1.0 :: third_party_licenses.json"
+  },
+  {
+    "file": "android-original/c63a96a5c749ae3663cbf6cdb554b9b980a57df4f83fe0890e3b68adb4dc874c.txt",
+    "bytes": 1092,
+    "sha256": "c63a96a5c749ae3663cbf6cdb554b9b980a57df4f83fe0890e3b68adb4dc874c",
+    "source": "com.google.android.gms:play-services-fido:20.1.0 :: third_party_licenses.json"
+  },
+  {
+    "file": "android-original/c8529ae3b11c3d7fa8aad6dee094ffb48463e67520b07c75701995f8942e7380.txt",
+    "bytes": 787,
+    "sha256": "c8529ae3b11c3d7fa8aad6dee094ffb48463e67520b07c75701995f8942e7380",
+    "source": "com.google.firebase:firebase-iid-interop:17.1.0 :: third_party_licenses.json"
+  },
+  {
+    "file": "android-original/ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356.txt",
+    "bytes": 3,
+    "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+    "source": "com.google.firebase:firebase-appcheck-interop:17.1.0 :: third_party_licenses.json; com.google.firebase:firebase-common:22.0.1 :: third_party_licenses.json; com.google.firebase:firebase-components:19.0.0 :: third_party_licenses.json; com.google.firebase:firebase-firestore:26.3.0 :: third_party_licenses.json; com.google.firebase:protolite-well-known-types:18.0.1 :: third_party_licenses.json; com.google.firebase:firebase-database-collection:18.0.1 :: third_party_licenses.json; com.google.firebase:firebase-installations:19.1.0 :: third_party_licenses.json; com.google.firebase:firebase-installations-interop:17.3.0 :: third_party_licenses.json; com.google.firebase:firebase-storage:22.0.1 :: third_party_licenses.json; com.google.firebase:firebase-appcheck:19.1.0 :: third_party_licenses.json; com.google.android.datatransport:transport-api:3.0.0 :: third_party_licenses.json; com.google.android.datatransport:transport-backend-cct:3.1.8 :: third_party_licenses.json; com.google.firebase:firebase-encoders-json:18.0.0 :: third_party_licenses.json"
+  },
+  {
+    "file": "android-original/ca9b2e984212979d947d460c8da1e1ac6adee64961784b513b453dcb634298c6.txt",
+    "bytes": 38,
+    "sha256": "ca9b2e984212979d947d460c8da1e1ac6adee64961784b513b453dcb634298c6",
+    "source": "com.google.android.datatransport:transport-runtime:3.1.8 :: third_party_licenses.json"
+  },
+  {
+    "file": "android-original/cb9a47e0b1a8b3a61e7251e6f247f4b0254ddbfbcae6c4f897d46195c5318437.txt",
+    "bytes": 868481,
+    "sha256": "cb9a47e0b1a8b3a61e7251e6f247f4b0254ddbfbcae6c4f897d46195c5318437",
+    "source": "com.google.android.recaptcha:recaptcha:18.6.1 :: third_party_licenses.txt"
+  },
+  {
+    "file": "android-original/ce8b3284215b312d3aaeb2ca73228b1b52557ca5151bd8725b47e11a707ccf77.txt",
+    "bytes": 331345,
+    "sha256": "ce8b3284215b312d3aaeb2ca73228b1b52557ca5151bd8725b47e11a707ccf77",
+    "source": "com.google.android.gms:play-services-tasks:18.4.0 :: third_party_licenses.txt; com.google.android.gms:play-services-basement:18.9.0 :: third_party_licenses.txt; com.google.android.gms:play-services-base:18.9.0 :: third_party_licenses.txt"
+  },
+  {
+    "file": "android-original/d1bef59d6b954ca443fd176b136ad6eb0f61efa2c08a9a90c3ef8911ad3f72b7.txt",
+    "bytes": 3004,
+    "sha256": "d1bef59d6b954ca443fd176b136ad6eb0f61efa2c08a9a90c3ef8911ad3f72b7",
+    "source": "com.google.firebase:firebase-iid:21.1.0 :: third_party_licenses.json"
+  },
+  {
+    "file": "android-original/d8f46d8ed0bedc7b46ff0f5dd695fa3f979782bf838df34d7433da91ffb569ef.txt",
+    "bytes": 681862,
+    "sha256": "d8f46d8ed0bedc7b46ff0f5dd695fa3f979782bf838df34d7433da91ffb569ef",
+    "source": "com.google.android.libraries.identity.googleid:googleid:1.1.0 :: third_party_licenses.txt"
+  },
+  {
+    "file": "android-original/dad11d2da19198161f392a355c870025157763b1942fc30f789308f678269883.txt",
+    "bytes": 727487,
+    "sha256": "dad11d2da19198161f392a355c870025157763b1942fc30f789308f678269883",
+    "source": "com.google.android.play:core-common:2.0.3 :: LICENSE; com.google.android.play:core-common:2.0.3 :: third_party_licenses.txt"
+  },
+  {
+    "file": "android-original/db91cd0d84dbeb0903bc118f6ecd99ea6da415af41471ad8c2453753b61aac58.txt",
+    "bytes": 3644,
+    "sha256": "db91cd0d84dbeb0903bc118f6ecd99ea6da415af41471ad8c2453753b61aac58",
+    "source": "com.google.android.play:integrity:1.3.0 :: third_party_licenses.json"
+  },
+  {
+    "file": "android-original/de5f2db3626d3d298f024b4ce6f5585752fcd421b04f3844d47149fe07e42720.txt",
+    "bytes": 1086,
+    "sha256": "de5f2db3626d3d298f024b4ce6f5585752fcd421b04f3844d47149fe07e42720",
+    "source": "com.google.android.gms:play-services-auth-base:18.0.10 :: third_party_licenses.json"
+  },
+  {
+    "file": "android-original/de99dfafdd1f133400c8d18b57850636f1065c6f0e5051c9dbe6bea2cc317aa4.txt",
+    "bytes": 752772,
+    "sha256": "de99dfafdd1f133400c8d18b57850636f1065c6f0e5051c9dbe6bea2cc317aa4",
+    "source": "com.google.android.play:integrity:1.3.0 :: LICENSE; com.google.android.play:integrity:1.3.0 :: third_party_licenses.txt"
+  },
+  {
+    "file": "android-original/e90eaa08dea089df10f2bf7f9dba63a5f6237c01562c4741e2e86773e78582d5.txt",
+    "bytes": 1126,
+    "sha256": "e90eaa08dea089df10f2bf7f9dba63a5f6237c01562c4741e2e86773e78582d5",
+    "source": "org.checkerframework:checker-qual:3.37.0 :: META-INF/LICENSE.txt"
+  },
+  {
+    "file": "android-original/f49b0d3754fe9430ca8e1d7578b98f9c74c912fa5182bee2db86f0c386ab7970.txt",
+    "bytes": 834,
+    "sha256": "f49b0d3754fe9430ca8e1d7578b98f9c74c912fa5182bee2db86f0c386ab7970",
+    "source": "com.google.android.gms:play-services-auth-api-phone:18.0.2 :: third_party_licenses.json"
+  },
+  {
+    "file": "android-original/f738390135295a249c4fb7118469ff881ae0bd11401b410f7564a52b7e54c4d2.txt",
+    "bytes": 171,
+    "sha256": "f738390135295a249c4fb7118469ff881ae0bd11401b410f7564a52b7e54c4d2",
+    "source": "commons-io:commons-io:2.6 :: META-INF/NOTICE.txt"
+  },
+  {
+    "file": "android-original/ff3c50a68532065aa7f8cea301f1b79c91eb70076feaaa1c5cd71ab7ecb56e80.txt",
+    "bytes": 350458,
+    "sha256": "ff3c50a68532065aa7f8cea301f1b79c91eb70076feaaa1c5cd71ab7ecb56e80",
+    "source": "com.google.android.gms:play-services-fido:20.1.0 :: third_party_licenses.txt"
+  },
+  {
+    "file": "android-upstream/animal-sniffer-LICENSE.txt",
+    "bytes": 1114,
+    "sha256": "bdd7033533db248e8e3e9c1565894bbcf0fd2d343850730ca216a069df2fc5ef",
+    "source": "upstream pinned original / collected audit evidence"
+  },
+  {
+    "file": "android-upstream/protobuf-LICENSE.txt",
+    "bytes": 1732,
+    "sha256": "6e5e117324afd944dcf67f36cf329843bc1a92229a8cd9bb573d7a83130fea7d",
+    "source": "upstream pinned original / collected audit evidence"
+  },
+  {
+    "file": "android-upstream/re2j-LICENSE.txt",
+    "bytes": 1617,
+    "sha256": "26a6133577cc8e48d7c002ac4d4a554786e7c0e1732e10f2db205e5e494c411b",
+    "source": "upstream pinned original / collected audit evidence"
+  },
+  {
+    "file": "android-upstream/reactive-streams-LICENSE.txt",
+    "bytes": 911,
+    "sha256": "96a3b2d45af72054d0676e8eb9a944a096812a7f8ff1b71bd82dadbc60ce0444",
+    "source": "upstream pinned original / collected audit evidence"
+  },
+  {
+    "file": "artifact-evidence.json",
+    "bytes": 360,
+    "sha256": "b811b9a94f83777d5f85606b473dbb1a0c184562fd3c7abe8edd982ae5aae9f1",
+    "source": "actual immutable artifacts"
+  },
+  {
+    "file": "dart/_flutterfire_internals-1.3.72-LICENSE.txt",
+    "bytes": 1528,
+    "sha256": "762fc7b205198bc1cfee88bbe618e2c485ec6aff335f56df3da109e422e39014",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/_flutterfire_internals-1.3.72/LICENSE"
+  },
+  {
+    "file": "dart/antlr4-4.13.2-LICENSE.txt",
+    "bytes": 2699,
+    "sha256": "b1b379fcaf3219593a4c433feb1b35c780bed23fafaae440b1ae2771a9521e3a",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/antlr4-4.13.2/LICENSE"
+  },
+  {
+    "file": "dart/app_links-6.4.1-LICENSE.txt",
+    "bytes": 11558,
+    "sha256": "1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/app_links-6.4.1/LICENSE"
+  },
+  {
+    "file": "dart/app_links_linux-1.0.3-LICENSE.txt",
+    "bytes": 11558,
+    "sha256": "1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/app_links_linux-1.0.3/LICENSE"
+  },
+  {
+    "file": "dart/app_links_platform_interface-2.0.4-LICENSE.txt",
+    "bytes": 11558,
+    "sha256": "1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/app_links_platform_interface-2.0.4/LICENSE"
+  },
+  {
+    "file": "dart/app_links_web-1.0.4-LICENSE.txt",
+    "bytes": 11558,
+    "sha256": "1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/app_links_web-1.0.4/LICENSE"
+  },
+  {
+    "file": "dart/archive-4.0.9-LICENSE.txt",
+    "bytes": 1101,
+    "sha256": "32f97d332eae7453ec4079858e6f1d74be85beeb6d3881068b47d02a379cccea",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/archive-4.0.9/LICENSE"
+  },
+  {
+    "file": "dart/args-2.7.0-LICENSE.txt",
+    "bytes": 1504,
+    "sha256": "dfb09c74e29386cd3e2719f32d4995d59526179753931d31840757c77fbf2791",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/args-2.7.0/LICENSE"
+  },
+  {
+    "file": "dart/asn1lib-1.6.5-LICENSE.txt",
+    "bytes": 1346,
+    "sha256": "b0db8d3a93ea33f852d2b6dfa9c38fc57d33a51c31b47ca528df6d02700f2a42",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/asn1lib-1.6.5/LICENSE"
+  },
+  {
+    "file": "dart/async-2.13.1-LICENSE.txt",
+    "bytes": 1504,
+    "sha256": "ff15faa32a2e638107b7789592b14426162a75ba620044ee2340a20ec6ce5e73",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/async-2.13.1/LICENSE"
+  },
+  {
+    "file": "dart/boolean_selector-2.1.2-LICENSE.txt",
+    "bytes": 1503,
+    "sha256": "b71519245009a3b8f126196a5408ec031e216e8e0d985085958c6543f82a8a2a",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/boolean_selector-2.1.2/LICENSE"
+  },
+  {
+    "file": "dart/cel-0.5.4+1-LICENSE.txt",
+    "bytes": 1072,
+    "sha256": "b61a512f05d2c38f47e1ded528821ae325a14c097329dd6ff17619a37ee13eef",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/cel-0.5.4+1/LICENSE"
+  },
+  {
+    "file": "dart/characters-1.4.1-LICENSE.txt",
+    "bytes": 1504,
+    "sha256": "0371d1da6a57fb791db29d29b95333429205f51f3cb2eb3a0c12d91838a38744",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/characters-1.4.1/LICENSE"
+  },
+  {
+    "file": "dart/clock-1.1.2-LICENSE.txt",
+    "bytes": 11357,
+    "sha256": "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/clock-1.1.2/LICENSE"
+  },
+  {
+    "file": "dart/cloud_firestore-6.5.0-LICENSE.txt",
+    "bytes": 1528,
+    "sha256": "762fc7b205198bc1cfee88bbe618e2c485ec6aff335f56df3da109e422e39014",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/cloud_firestore-6.5.0/LICENSE"
+  },
+  {
+    "file": "dart/cloud_firestore_platform_interface-8.0.2-LICENSE.txt",
+    "bytes": 1528,
+    "sha256": "762fc7b205198bc1cfee88bbe618e2c485ec6aff335f56df3da109e422e39014",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/cloud_firestore_platform_interface-8.0.2/LICENSE"
+  },
+  {
+    "file": "dart/cloud_firestore_web-5.5.0-LICENSE.txt",
+    "bytes": 1558,
+    "sha256": "9f23ad2aa0fe3e877397294b6846868c2a7458fe394fbcd5b90ca4505a6b6ab8",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/cloud_firestore_web-5.5.0/LICENSE"
+  },
+  {
+    "file": "dart/cloud_functions-6.3.2-LICENSE.txt",
+    "bytes": 1528,
+    "sha256": "c846bb09b8e73c268e5beaf65d39c1f9b191b1d03b81c930ab9b8c75540bc4c3",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/cloud_functions-6.3.2/LICENSE"
+  },
+  {
+    "file": "dart/cloud_functions_platform_interface-6.0.2-LICENSE.txt",
+    "bytes": 1559,
+    "sha256": "34a5c58db7cc4d3265d14a9aa26e38067fe114311d8bec31f909d1c240e626c4",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/cloud_functions_platform_interface-6.0.2/LICENSE"
+  },
+  {
+    "file": "dart/cloud_functions_web-5.1.8-LICENSE.txt",
+    "bytes": 1564,
+    "sha256": "8800a5c64fce01ea4e400ff7737875ab3a35be6b88b6a6052d24b6dd69a2d177",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/cloud_functions_web-5.1.8/LICENSE"
+  },
+  {
+    "file": "dart/code_assets-1.2.1-LICENSE.txt",
+    "bytes": 1503,
+    "sha256": "21ae23b0b9ff67a2dc75ab085d1e8db8ac548c5faf370af17f28dd2ef3b52b7b",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/code_assets-1.2.1/LICENSE"
+  },
+  {
+    "file": "dart/collection-1.19.1-LICENSE.txt",
+    "bytes": 1504,
+    "sha256": "ff15faa32a2e638107b7789592b14426162a75ba620044ee2340a20ec6ce5e73",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/collection-1.19.1/LICENSE"
+  },
+  {
+    "file": "dart/connectivity_plus-6.1.5-LICENSE.txt",
+    "bytes": 1481,
+    "sha256": "3b38d48befd0af70b892e13d10c9e34679416c24a9277f962629951c64d71f4c",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/connectivity_plus-6.1.5/LICENSE"
+  },
+  {
+    "file": "dart/connectivity_plus_platform_interface-2.1.0-LICENSE.txt",
+    "bytes": 1481,
+    "sha256": "1f17ed03a3106daaf13e9d70869cb0735481ae553f029d08787b06380a64bc98",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/connectivity_plus_platform_interface-2.1.0/LICENSE"
+  },
+  {
+    "file": "dart/convert-3.1.2-LICENSE.txt",
+    "bytes": 1503,
+    "sha256": "ad6a71997da90924b2cfb1fb47ec46537f70faf469efe016168794ae45ed6888",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/convert-3.1.2/LICENSE"
+  },
+  {
+    "file": "dart/crop_your_image-2.0.0-LICENSE.txt",
+    "bytes": 11343,
+    "sha256": "8eb8e73f887aca5ab7a823caa628771e2c31ce3a2e58063663506e8cb4b88aae",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/crop_your_image-2.0.0/LICENSE"
+  },
+  {
+    "file": "dart/cross_file-0.3.5+2-LICENSE.txt",
+    "bytes": 1497,
+    "sha256": "420f7739f169097f0aad1242045169cd643c8f1d94e62866fad265ae4c369b7d",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/cross_file-0.3.5+2/LICENSE"
+  },
+  {
+    "file": "dart/crypto-3.0.7-LICENSE.txt",
+    "bytes": 1503,
+    "sha256": "ad6a71997da90924b2cfb1fb47ec46537f70faf469efe016168794ae45ed6888",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/crypto-3.0.7/LICENSE"
+  },
+  {
+    "file": "dart/cupertino_icons-1.0.9-LICENSE.txt",
+    "bytes": 1086,
+    "sha256": "310d6ab6483280280c9db122bded0a63c09558bc5743720f61dbcbb494db370a",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/cupertino_icons-1.0.9/LICENSE"
+  },
+  {
+    "file": "dart/dbus-0.7.14-LICENSE.txt",
+    "bytes": 16725,
+    "sha256": "1f256ecad192880510e84ad60474eab7589218784b9a50bc7ceee34c2b91f1d5",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/dbus-0.7.14/LICENSE"
+  },
+  {
+    "file": "dart/dio-5.11.0-LICENSE.txt",
+    "bytes": 1104,
+    "sha256": "0b4d36faa9f74d67c3b7e082fc860c643b41f5bb14b4d262fe9c3559c88992b7",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/dio-5.11.0/LICENSE"
+  },
+  {
+    "file": "dart/dio_web_adapter-2.2.1-LICENSE.txt",
+    "bytes": 1104,
+    "sha256": "0b4d36faa9f74d67c3b7e082fc860c643b41f5bb14b4d262fe9c3559c88992b7",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/dio_web_adapter-2.2.1/LICENSE"
+  },
+  {
+    "file": "dart/encrypt-5.0.3-LICENSE.txt",
+    "bytes": 1514,
+    "sha256": "c127a9250631c1ae489f6372c4093602c5959d415cd8b52f9e49307f7b506a48",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/encrypt-5.0.3/LICENSE"
+  },
+  {
+    "file": "dart/equatable-2.0.8-LICENSE.txt",
+    "bytes": 1070,
+    "sha256": "07720a43bdabe44206067a2bffd1089dcdc4cc5b0b7f8169308c2f8ba6ad0c86",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/equatable-2.0.8/LICENSE"
+  },
+  {
+    "file": "dart/fake_async-1.3.3-LICENSE.txt",
+    "bytes": 11357,
+    "sha256": "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/fake_async-1.3.3/LICENSE"
+  },
+  {
+    "file": "dart/fake_cloud_firestore-4.1.1-LICENSE.txt",
+    "bytes": 1360,
+    "sha256": "0b04ba3ac3fbb9fedd44796013321ad2ce9da27751d1ece130e6468a9b4f9eb4",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/fake_cloud_firestore-4.1.1/LICENSE"
+  },
+  {
+    "file": "dart/fake_firebase_security_rules-0.5.4-LICENSE.txt",
+    "bytes": 1072,
+    "sha256": "b61a512f05d2c38f47e1ded528821ae325a14c097329dd6ff17619a37ee13eef",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/fake_firebase_security_rules-0.5.4/LICENSE"
+  },
+  {
+    "file": "dart/ffi-2.2.0-LICENSE.txt",
+    "bytes": 1504,
+    "sha256": "0371d1da6a57fb791db29d29b95333429205f51f3cb2eb3a0c12d91838a38744",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/ffi-2.2.0/LICENSE"
+  },
+  {
+    "file": "dart/file-7.0.1-LICENSE.txt",
+    "bytes": 1523,
+    "sha256": "f6df86b1412172537273e8e80ee2fb8a66aa7307ce0b39ea5ddab47ca41b8c49",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/file-7.0.1/LICENSE"
+  },
+  {
+    "file": "dart/file_selector_linux-0.9.4-LICENSE.txt",
+    "bytes": 1497,
+    "sha256": "420f7739f169097f0aad1242045169cd643c8f1d94e62866fad265ae4c369b7d",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/file_selector_linux-0.9.4/LICENSE"
+  },
+  {
+    "file": "dart/file_selector_macos-0.9.5-LICENSE.txt",
+    "bytes": 1497,
+    "sha256": "420f7739f169097f0aad1242045169cd643c8f1d94e62866fad265ae4c369b7d",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/file_selector_macos-0.9.5/LICENSE"
+  },
+  {
+    "file": "dart/file_selector_platform_interface-2.7.0-LICENSE.txt",
+    "bytes": 1497,
+    "sha256": "420f7739f169097f0aad1242045169cd643c8f1d94e62866fad265ae4c369b7d",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/file_selector_platform_interface-2.7.0/LICENSE"
+  },
+  {
+    "file": "dart/file_selector_windows-0.9.3+5-LICENSE.txt",
+    "bytes": 1497,
+    "sha256": "420f7739f169097f0aad1242045169cd643c8f1d94e62866fad265ae4c369b7d",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/file_selector_windows-0.9.3+5/LICENSE"
+  },
+  {
+    "file": "dart/firebase_auth-6.5.2-LICENSE.txt",
+    "bytes": 1558,
+    "sha256": "9f23ad2aa0fe3e877397294b6846868c2a7458fe394fbcd5b90ca4505a6b6ab8",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/firebase_auth-6.5.2/LICENSE"
+  },
+  {
+    "file": "dart/firebase_auth_platform_interface-9.0.2-LICENSE.txt",
+    "bytes": 1558,
+    "sha256": "9f23ad2aa0fe3e877397294b6846868c2a7458fe394fbcd5b90ca4505a6b6ab8",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/firebase_auth_platform_interface-9.0.2/LICENSE"
+  },
+  {
+    "file": "dart/firebase_auth_web-6.2.2-LICENSE.txt",
+    "bytes": 1558,
+    "sha256": "9f23ad2aa0fe3e877397294b6846868c2a7458fe394fbcd5b90ca4505a6b6ab8",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/firebase_auth_web-6.2.2/LICENSE"
+  },
+  {
+    "file": "dart/firebase_core-4.10.0-LICENSE.txt",
+    "bytes": 1558,
+    "sha256": "9f23ad2aa0fe3e877397294b6846868c2a7458fe394fbcd5b90ca4505a6b6ab8",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/firebase_core-4.10.0/LICENSE"
+  },
+  {
+    "file": "dart/firebase_core_platform_interface-7.0.1-LICENSE.txt",
+    "bytes": 1558,
+    "sha256": "9f23ad2aa0fe3e877397294b6846868c2a7458fe394fbcd5b90ca4505a6b6ab8",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/firebase_core_platform_interface-7.0.1/LICENSE"
+  },
+  {
+    "file": "dart/firebase_core_web-3.8.0-LICENSE.txt",
+    "bytes": 1559,
+    "sha256": "797f461f7003c078c12abf3ce054343820f16a2ac923bce0d613ab8bcebc16e0",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/firebase_core_web-3.8.0/LICENSE"
+  },
+  {
+    "file": "dart/firebase_storage-13.4.2-LICENSE.txt",
+    "bytes": 1558,
+    "sha256": "9f23ad2aa0fe3e877397294b6846868c2a7458fe394fbcd5b90ca4505a6b6ab8",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/firebase_storage-13.4.2/LICENSE"
+  },
+  {
+    "file": "dart/firebase_storage_platform_interface-6.0.2-LICENSE.txt",
+    "bytes": 1527,
+    "sha256": "9c29a06d466904f29a570e43adf668af50f76cc0b9e3774472cdba9ea01bb730",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/firebase_storage_platform_interface-6.0.2/LICENSE"
+  },
+  {
+    "file": "dart/firebase_storage_web-3.11.8-LICENSE.txt",
+    "bytes": 1559,
+    "sha256": "6c439f0e59fef5a047d5f3ab04675ba3a708d88f6ff36856ca19a7793a8472f7",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/firebase_storage_web-3.11.8/LICENSE"
+  },
+  {
+    "file": "dart/fixnum-1.1.1-LICENSE.txt",
+    "bytes": 1503,
+    "sha256": "ff0b91d4f3c32b25cb6ec84985e8da89b0ba2a2b2f7eef353cda5e5423a20390",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/fixnum-1.1.1/LICENSE"
+  },
+  {
+    "file": "dart/flutter-0.0.0-LICENSE.txt",
+    "bytes": 1519,
+    "sha256": "a598db94b6290ffbe10b5ecf911057b6a943351c727fdda9e5f2891d68700a20",
+    "source": "/opt/homebrew/share/flutter/packages/flutter/LICENSE"
+  },
+  {
+    "file": "dart/flutter_image_compress-2.4.0-LICENSE.txt",
+    "bytes": 1071,
+    "sha256": "92aaa4c48aa3bc1d3cd65f3e64f52b7ea77051809bdad60f1cf7deb129b03ca4",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/flutter_image_compress-2.4.0/LICENSE"
+  },
+  {
+    "file": "dart/flutter_image_compress_common-1.0.6-LICENSE.txt",
+    "bytes": 1071,
+    "sha256": "92aaa4c48aa3bc1d3cd65f3e64f52b7ea77051809bdad60f1cf7deb129b03ca4",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/flutter_image_compress_common-1.0.6/LICENSE"
+  },
+  {
+    "file": "dart/flutter_image_compress_macos-1.0.3-LICENSE.txt",
+    "bytes": 1071,
+    "sha256": "92aaa4c48aa3bc1d3cd65f3e64f52b7ea77051809bdad60f1cf7deb129b03ca4",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/flutter_image_compress_macos-1.0.3/LICENSE"
+  },
+  {
+    "file": "dart/flutter_image_compress_ohos-0.0.3-LICENSE.txt",
+    "bytes": 1071,
+    "sha256": "92aaa4c48aa3bc1d3cd65f3e64f52b7ea77051809bdad60f1cf7deb129b03ca4",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/flutter_image_compress_ohos-0.0.3/LICENSE"
+  },
+  {
+    "file": "dart/flutter_image_compress_platform_interface-1.0.5-LICENSE.txt",
+    "bytes": 1071,
+    "sha256": "92aaa4c48aa3bc1d3cd65f3e64f52b7ea77051809bdad60f1cf7deb129b03ca4",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/flutter_image_compress_platform_interface-1.0.5/LICENSE"
+  },
+  {
+    "file": "dart/flutter_image_compress_web-0.1.5-LICENSE.txt",
+    "bytes": 1071,
+    "sha256": "92aaa4c48aa3bc1d3cd65f3e64f52b7ea77051809bdad60f1cf7deb129b03ca4",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/flutter_image_compress_web-0.1.5/LICENSE"
+  },
+  {
+    "file": "dart/flutter_lints-6.0.0-LICENSE.txt",
+    "bytes": 1519,
+    "sha256": "89519eca6f7b9529b35bdddd623a58c3af06a88c458dbd6531ddb4675acf75a9",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/flutter_lints-6.0.0/LICENSE"
+  },
+  {
+    "file": "dart/flutter_localizations-0.0.0-LICENSE.txt",
+    "bytes": 1519,
+    "sha256": "a598db94b6290ffbe10b5ecf911057b6a943351c727fdda9e5f2891d68700a20",
+    "source": "/opt/homebrew/share/flutter/LICENSE"
+  },
+  {
+    "file": "dart/flutter_plugin_android_lifecycle-2.0.34-LICENSE.txt",
+    "bytes": 1497,
+    "sha256": "420f7739f169097f0aad1242045169cd643c8f1d94e62866fad265ae4c369b7d",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.34/LICENSE"
+  },
+  {
+    "file": "dart/flutter_svg-2.3.0-LICENSE.txt",
+    "bytes": 1052,
+    "sha256": "dc54ae36c905edfbf3c6678ee34d8da5989d7ccc7b993857a9d89db06a67eb18",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/flutter_svg-2.3.0/LICENSE"
+  },
+  {
+    "file": "dart/flutter_test-0.0.0-LICENSE.txt",
+    "bytes": 1519,
+    "sha256": "a598db94b6290ffbe10b5ecf911057b6a943351c727fdda9e5f2891d68700a20",
+    "source": "/opt/homebrew/share/flutter/LICENSE"
+  },
+  {
+    "file": "dart/flutter_web_plugins-0.0.0-LICENSE.txt",
+    "bytes": 1519,
+    "sha256": "a598db94b6290ffbe10b5ecf911057b6a943351c727fdda9e5f2891d68700a20",
+    "source": "/opt/homebrew/share/flutter/LICENSE"
+  },
+  {
+    "file": "dart/google_identity_services_web-0.3.3+1-LICENSE.txt",
+    "bytes": 1519,
+    "sha256": "89519eca6f7b9529b35bdddd623a58c3af06a88c458dbd6531ddb4675acf75a9",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/google_identity_services_web-0.3.3+1/LICENSE"
+  },
+  {
+    "file": "dart/google_sign_in-6.3.0-LICENSE.txt",
+    "bytes": 1519,
+    "sha256": "89519eca6f7b9529b35bdddd623a58c3af06a88c458dbd6531ddb4675acf75a9",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/google_sign_in-6.3.0/LICENSE"
+  },
+  {
+    "file": "dart/google_sign_in_android-6.2.1-LICENSE.txt",
+    "bytes": 1519,
+    "sha256": "89519eca6f7b9529b35bdddd623a58c3af06a88c458dbd6531ddb4675acf75a9",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/google_sign_in_android-6.2.1/LICENSE"
+  },
+  {
+    "file": "dart/google_sign_in_ios-5.9.0-LICENSE.txt",
+    "bytes": 1519,
+    "sha256": "89519eca6f7b9529b35bdddd623a58c3af06a88c458dbd6531ddb4675acf75a9",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/google_sign_in_ios-5.9.0/LICENSE"
+  },
+  {
+    "file": "dart/google_sign_in_platform_interface-2.5.0-LICENSE.txt",
+    "bytes": 1519,
+    "sha256": "89519eca6f7b9529b35bdddd623a58c3af06a88c458dbd6531ddb4675acf75a9",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/google_sign_in_platform_interface-2.5.0/LICENSE"
+  },
+  {
+    "file": "dart/google_sign_in_web-0.12.4+4-LICENSE.txt",
+    "bytes": 1519,
+    "sha256": "89519eca6f7b9529b35bdddd623a58c3af06a88c458dbd6531ddb4675acf75a9",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/google_sign_in_web-0.12.4+4/LICENSE"
+  },
+  {
+    "file": "dart/gtk-2.2.0-LICENSE.txt",
+    "bytes": 16725,
+    "sha256": "1f256ecad192880510e84ad60474eab7589218784b9a50bc7ceee34c2b91f1d5",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/gtk-2.2.0/LICENSE"
+  },
+  {
+    "file": "dart/hooks-2.0.2-LICENSE.txt",
+    "bytes": 1503,
+    "sha256": "21ae23b0b9ff67a2dc75ab085d1e8db8ac548c5faf370af17f28dd2ef3b52b7b",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/hooks-2.0.2/LICENSE"
+  },
+  {
+    "file": "dart/http-1.6.0-LICENSE.txt",
+    "bytes": 1504,
+    "sha256": "3c32b53167c7dae9190c38dab5dd9fe1789c53623ebc7d1babcb29914c5b3f16",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/http-1.6.0/LICENSE"
+  },
+  {
+    "file": "dart/http_parser-4.1.2-LICENSE.txt",
+    "bytes": 1504,
+    "sha256": "3c32b53167c7dae9190c38dab5dd9fe1789c53623ebc7d1babcb29914c5b3f16",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/http_parser-4.1.2/LICENSE"
+  },
+  {
+    "file": "dart/image-4.8.0-LICENSE.txt",
+    "bytes": 1122,
+    "sha256": "f3c17da84e0780e1c334325c73098257c32221d62498ed55ef3c1361904925aa",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/image-4.8.0/LICENSE"
+  },
+  {
+    "file": "dart/image_picker-1.2.2-LICENSE.txt",
+    "bytes": 12953,
+    "sha256": "8e22fae63e4e8ac897f0cb3018ed94ed730b3e5da5d42c6856a26ba524f0fd88",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/image_picker-1.2.2/LICENSE"
+  },
+  {
+    "file": "dart/image_picker_android-0.8.13+17-LICENSE.txt",
+    "bytes": 12953,
+    "sha256": "8e22fae63e4e8ac897f0cb3018ed94ed730b3e5da5d42c6856a26ba524f0fd88",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/image_picker_android-0.8.13+17/LICENSE"
+  },
+  {
+    "file": "dart/image_picker_for_web-3.1.1-LICENSE.txt",
+    "bytes": 1497,
+    "sha256": "420f7739f169097f0aad1242045169cd643c8f1d94e62866fad265ae4c369b7d",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/image_picker_for_web-3.1.1/LICENSE"
+  },
+  {
+    "file": "dart/image_picker_ios-0.8.13+6-LICENSE.txt",
+    "bytes": 12953,
+    "sha256": "8e22fae63e4e8ac897f0cb3018ed94ed730b3e5da5d42c6856a26ba524f0fd88",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/image_picker_ios-0.8.13+6/LICENSE"
+  },
+  {
+    "file": "dart/image_picker_linux-0.2.2-LICENSE.txt",
+    "bytes": 1519,
+    "sha256": "89519eca6f7b9529b35bdddd623a58c3af06a88c458dbd6531ddb4675acf75a9",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/image_picker_linux-0.2.2/LICENSE"
+  },
+  {
+    "file": "dart/image_picker_macos-0.2.2+1-LICENSE.txt",
+    "bytes": 1497,
+    "sha256": "420f7739f169097f0aad1242045169cd643c8f1d94e62866fad265ae4c369b7d",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/image_picker_macos-0.2.2+1/LICENSE"
+  },
+  {
+    "file": "dart/image_picker_platform_interface-2.11.1-LICENSE.txt",
+    "bytes": 1497,
+    "sha256": "420f7739f169097f0aad1242045169cd643c8f1d94e62866fad265ae4c369b7d",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/image_picker_platform_interface-2.11.1/LICENSE"
+  },
+  {
+    "file": "dart/image_picker_windows-0.2.2-LICENSE.txt",
+    "bytes": 1519,
+    "sha256": "89519eca6f7b9529b35bdddd623a58c3af06a88c458dbd6531ddb4675acf75a9",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/image_picker_windows-0.2.2/LICENSE"
+  },
+  {
+    "file": "dart/in_app_purchase-3.3.0-LICENSE.txt",
+    "bytes": 1497,
+    "sha256": "420f7739f169097f0aad1242045169cd643c8f1d94e62866fad265ae4c369b7d",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/in_app_purchase-3.3.0/LICENSE"
+  },
+  {
+    "file": "dart/in_app_purchase_android-0.5.1-LICENSE.txt",
+    "bytes": 1497,
+    "sha256": "420f7739f169097f0aad1242045169cd643c8f1d94e62866fad265ae4c369b7d",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/in_app_purchase_android-0.5.1/LICENSE"
+  },
+  {
+    "file": "dart/in_app_purchase_platform_interface-1.4.1-LICENSE.txt",
+    "bytes": 1497,
+    "sha256": "420f7739f169097f0aad1242045169cd643c8f1d94e62866fad265ae4c369b7d",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/in_app_purchase_platform_interface-1.4.1/LICENSE"
+  },
+  {
+    "file": "dart/in_app_purchase_storekit-0.4.10-LICENSE.txt",
+    "bytes": 1497,
+    "sha256": "420f7739f169097f0aad1242045169cd643c8f1d94e62866fad265ae4c369b7d",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/in_app_purchase_storekit-0.4.10/LICENSE"
+  },
+  {
+    "file": "dart/intl-0.20.2-LICENSE.txt",
+    "bytes": 1503,
+    "sha256": "7e124af6a556f045cb3a20cafbdaa31602ac2c82cbcb3c3b15faaaf514b06028",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/intl-0.20.2/LICENSE"
+  },
+  {
+    "file": "dart/jni-1.0.0-LICENSE.txt",
+    "bytes": 1503,
+    "sha256": "08a004aa8956c3cf3b24f7f69c966247233953e18e6afaa61191ea47b7eb70f6",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/jni-1.0.0/LICENSE"
+  },
+  {
+    "file": "dart/jni_flutter-1.0.1-LICENSE.txt",
+    "bytes": 1503,
+    "sha256": "b1fcb475d67817411f335ac92872507011e574c4cb29cfdaaf7707b75641932c",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/jni_flutter-1.0.1/LICENSE"
+  },
+  {
+    "file": "dart/js-0.7.2-LICENSE.txt",
+    "bytes": 1503,
+    "sha256": "efa4eaf6fdec22a36a61395ea70843db9ae815760bf663e068012c92b93c0184",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/js-0.7.2/LICENSE"
+  },
+  {
+    "file": "dart/json_annotation-4.12.0-LICENSE.txt",
+    "bytes": 1524,
+    "sha256": "143839f62c9b7f88143ea9f688361c27050888acde7696b34e04414bd254fafc",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/json_annotation-4.12.0/LICENSE"
+  },
+  {
+    "file": "dart/kakao_flutter_sdk_auth-2.0.1-LICENSE.txt",
+    "bytes": 11363,
+    "sha256": "d179c84056f81408cc0076e2e3fb6b12f4cf8f666df5539378e0a45ebfbc1196",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/kakao_flutter_sdk_auth-2.0.1/LICENSE"
+  },
+  {
+    "file": "dart/kakao_flutter_sdk_common-2.0.1-LICENSE.txt",
+    "bytes": 11363,
+    "sha256": "d179c84056f81408cc0076e2e3fb6b12f4cf8f666df5539378e0a45ebfbc1196",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/kakao_flutter_sdk_common-2.0.1/LICENSE"
+  },
+  {
+    "file": "dart/kakao_flutter_sdk_user-2.0.1-LICENSE.txt",
+    "bytes": 11363,
+    "sha256": "d179c84056f81408cc0076e2e3fb6b12f4cf8f666df5539378e0a45ebfbc1196",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/kakao_flutter_sdk_user-2.0.1/LICENSE"
+  },
+  {
+    "file": "dart/leak_tracker-11.0.2-LICENSE.txt",
+    "bytes": 1503,
+    "sha256": "08a004aa8956c3cf3b24f7f69c966247233953e18e6afaa61191ea47b7eb70f6",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/leak_tracker-11.0.2/LICENSE"
+  },
+  {
+    "file": "dart/leak_tracker_flutter_testing-3.0.10-LICENSE.txt",
+    "bytes": 1503,
+    "sha256": "08a004aa8956c3cf3b24f7f69c966247233953e18e6afaa61191ea47b7eb70f6",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/leak_tracker_flutter_testing-3.0.10/LICENSE"
+  },
+  {
+    "file": "dart/leak_tracker_testing-3.0.2-LICENSE.txt",
+    "bytes": 1503,
+    "sha256": "08a004aa8956c3cf3b24f7f69c966247233953e18e6afaa61191ea47b7eb70f6",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/leak_tracker_testing-3.0.2/LICENSE"
+  },
+  {
+    "file": "dart/lints-6.1.0-LICENSE.txt",
+    "bytes": 1503,
+    "sha256": "421fe78c3b5df297f8b4ab2c74f2450a274ee6d245a113091f6b9f90570af193",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/lints-6.1.0/LICENSE"
+  },
+  {
+    "file": "dart/logger-2.7.0-LICENSE.txt",
+    "bytes": 1133,
+    "sha256": "bea3c025a4d1ec393c6b458d0118374d4faf9a2ebc9d48f642394a32c0b625a0",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/logger-2.7.0/LICENSE"
+  },
+  {
+    "file": "dart/logging-1.3.0-LICENSE.txt",
+    "bytes": 1504,
+    "sha256": "dfb09c74e29386cd3e2719f32d4995d59526179753931d31840757c77fbf2791",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/logging-1.3.0/LICENSE"
+  },
+  {
+    "file": "dart/matcher-0.12.19-LICENSE.txt",
+    "bytes": 1504,
+    "sha256": "3c32b53167c7dae9190c38dab5dd9fe1789c53623ebc7d1babcb29914c5b3f16",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/matcher-0.12.19/LICENSE"
+  },
+  {
+    "file": "dart/material_color_utilities-0.13.0-LICENSE.txt",
+    "bytes": 11317,
+    "sha256": "d103f246ef4c18dab8af0c1dcf6a8af884e5cff554da7261a48ac43c17d98f2e",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/material_color_utilities-0.13.0/LICENSE"
+  },
+  {
+    "file": "dart/meta-1.18.0-LICENSE.txt",
+    "bytes": 1503,
+    "sha256": "b71519245009a3b8f126196a5408ec031e216e8e0d985085958c6543f82a8a2a",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/meta-1.18.0/LICENSE"
+  },
+  {
+    "file": "dart/mime-2.0.0-LICENSE.txt",
+    "bytes": 1504,
+    "sha256": "ff15faa32a2e638107b7789592b14426162a75ba620044ee2340a20ec6ce5e73",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/mime-2.0.0/LICENSE"
+  },
+  {
+    "file": "dart/mock_exceptions-0.8.2-LICENSE.txt",
+    "bytes": 1072,
+    "sha256": "b61a512f05d2c38f47e1ded528821ae325a14c097329dd6ff17619a37ee13eef",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/mock_exceptions-0.8.2/LICENSE"
+  },
+  {
+    "file": "dart/more-4.7.0-LICENSE.txt",
+    "bytes": 1101,
+    "sha256": "de3beb428fb53ff41a86b9d44edb1ce00e4db9e8b5bdd9743b6fd05bca8d451e",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/more-4.7.0/LICENSE"
+  },
+  {
+    "file": "dart/nm-0.5.0-LICENSE.txt",
+    "bytes": 16726,
+    "sha256": "fab3dd6bdab226f1c08630b1dd917e11fcb4ec5e1e020e2c16f83a0a13863e85",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/nm-0.5.0/LICENSE"
+  },
+  {
+    "file": "dart/objective_c-9.4.1-LICENSE.txt",
+    "bytes": 1503,
+    "sha256": "1cda25a8de6880c5338de0b4a06ee89e8537c213eb1379c16a4c035bfd198b5c",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/objective_c-9.4.1/LICENSE"
+  },
+  {
+    "file": "dart/package_config-2.2.0-LICENSE.txt",
+    "bytes": 1504,
+    "sha256": "0371d1da6a57fb791db29d29b95333429205f51f3cb2eb3a0c12d91838a38744",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/package_config-2.2.0/LICENSE"
+  },
+  {
+    "file": "dart/path-1.9.1-LICENSE.txt",
+    "bytes": 1504,
+    "sha256": "3c32b53167c7dae9190c38dab5dd9fe1789c53623ebc7d1babcb29914c5b3f16",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/path-1.9.1/LICENSE"
+  },
+  {
+    "file": "dart/path_parsing-1.1.0-LICENSE.txt",
+    "bytes": 1053,
+    "sha256": "f4fc0fe1e273823b06540b3b948640ff81f3a5c5dc7088972eef662fe450ad77",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/path_parsing-1.1.0/LICENSE"
+  },
+  {
+    "file": "dart/path_provider-2.1.5-LICENSE.txt",
+    "bytes": 1519,
+    "sha256": "89519eca6f7b9529b35bdddd623a58c3af06a88c458dbd6531ddb4675acf75a9",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/path_provider-2.1.5/LICENSE"
+  },
+  {
+    "file": "dart/path_provider_android-2.3.1-LICENSE.txt",
+    "bytes": 1497,
+    "sha256": "420f7739f169097f0aad1242045169cd643c8f1d94e62866fad265ae4c369b7d",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/path_provider_android-2.3.1/LICENSE"
+  },
+  {
+    "file": "dart/path_provider_foundation-2.6.0-LICENSE.txt",
+    "bytes": 1497,
+    "sha256": "420f7739f169097f0aad1242045169cd643c8f1d94e62866fad265ae4c369b7d",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/path_provider_foundation-2.6.0/LICENSE"
+  },
+  {
+    "file": "dart/path_provider_linux-2.2.1-LICENSE.txt",
+    "bytes": 1519,
+    "sha256": "89519eca6f7b9529b35bdddd623a58c3af06a88c458dbd6531ddb4675acf75a9",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/path_provider_linux-2.2.1/LICENSE"
+  },
+  {
+    "file": "dart/path_provider_platform_interface-2.1.2-LICENSE.txt",
+    "bytes": 1519,
+    "sha256": "89519eca6f7b9529b35bdddd623a58c3af06a88c458dbd6531ddb4675acf75a9",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/path_provider_platform_interface-2.1.2/LICENSE"
+  },
+  {
+    "file": "dart/path_provider_windows-2.3.0-LICENSE.txt",
+    "bytes": 1519,
+    "sha256": "89519eca6f7b9529b35bdddd623a58c3af06a88c458dbd6531ddb4675acf75a9",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/path_provider_windows-2.3.0/LICENSE"
+  },
+  {
+    "file": "dart/petitparser-7.0.2-LICENSE.txt",
+    "bytes": 1101,
+    "sha256": "d2e8ffdbe89acbc10d5d1f2b03e7dbddf0a9f1742e809176682b62ef3d573b3e",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/petitparser-7.0.2/LICENSE"
+  },
+  {
+    "file": "dart/platform-3.1.6-LICENSE.txt",
+    "bytes": 1524,
+    "sha256": "143839f62c9b7f88143ea9f688361c27050888acde7696b34e04414bd254fafc",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/platform-3.1.6/LICENSE"
+  },
+  {
+    "file": "dart/plugin_platform_interface-2.1.8-LICENSE.txt",
+    "bytes": 1519,
+    "sha256": "89519eca6f7b9529b35bdddd623a58c3af06a88c458dbd6531ddb4675acf75a9",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/plugin_platform_interface-2.1.8/LICENSE"
+  },
+  {
+    "file": "dart/pointycastle-3.9.1-LICENSE.txt",
+    "bytes": 1120,
+    "sha256": "3a7bb295473da049a1c6edd2f8c41b9e526a4e80f200c0200cc5600b2634df3f",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/pointycastle-3.9.1/LICENSE"
+  },
+  {
+    "file": "dart/posix-6.5.0-LICENSE.txt",
+    "bytes": 1069,
+    "sha256": "aaf6271abd048deb3125828613f1797b7556472de6c7acd7103bd43e9cb6a84b",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/posix-6.5.0/LICENSE"
+  },
+  {
+    "file": "dart/pub_semver-2.2.0-LICENSE.txt",
+    "bytes": 1504,
+    "sha256": "3c32b53167c7dae9190c38dab5dd9fe1789c53623ebc7d1babcb29914c5b3f16",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/pub_semver-2.2.0/LICENSE"
+  },
+  {
+    "file": "dart/record_use-0.6.0-LICENSE.txt",
+    "bytes": 1503,
+    "sha256": "1cda25a8de6880c5338de0b4a06ee89e8537c213eb1379c16a4c035bfd198b5c",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/record_use-0.6.0/LICENSE"
+  },
+  {
+    "file": "dart/rx-0.4.0-LICENSE.txt",
+    "bytes": 1101,
+    "sha256": "be16d9c7adf96d6157158cc44ece19dbc1d746ed23452c035a3cb6eabe6d62ff",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/rx-0.4.0/LICENSE"
+  },
+  {
+    "file": "dart/rxdart-0.28.0-LICENSE.txt",
+    "bytes": 11357,
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/rxdart-0.28.0/LICENSE"
+  },
+  {
+    "file": "dart/share_plus-11.1.0-LICENSE.txt",
+    "bytes": 1489,
+    "sha256": "eb9741a672906ebd01fd9b3bef38f6c82eff250e91149cf404539ee7981079fd",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/share_plus-11.1.0/LICENSE"
+  },
+  {
+    "file": "dart/share_plus_platform_interface-6.1.0-LICENSE.txt",
+    "bytes": 1481,
+    "sha256": "3b38d48befd0af70b892e13d10c9e34679416c24a9277f962629951c64d71f4c",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/share_plus_platform_interface-6.1.0/LICENSE"
+  },
+  {
+    "file": "dart/shared_preferences-2.5.5-LICENSE.txt",
+    "bytes": 1497,
+    "sha256": "420f7739f169097f0aad1242045169cd643c8f1d94e62866fad265ae4c369b7d",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/shared_preferences-2.5.5/LICENSE"
+  },
+  {
+    "file": "dart/shared_preferences_android-2.4.23-LICENSE.txt",
+    "bytes": 1497,
+    "sha256": "420f7739f169097f0aad1242045169cd643c8f1d94e62866fad265ae4c369b7d",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/shared_preferences_android-2.4.23/LICENSE"
+  },
+  {
+    "file": "dart/shared_preferences_foundation-2.5.6-LICENSE.txt",
+    "bytes": 1497,
+    "sha256": "420f7739f169097f0aad1242045169cd643c8f1d94e62866fad265ae4c369b7d",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/shared_preferences_foundation-2.5.6/LICENSE"
+  },
+  {
+    "file": "dart/shared_preferences_linux-2.4.1-LICENSE.txt",
+    "bytes": 1519,
+    "sha256": "89519eca6f7b9529b35bdddd623a58c3af06a88c458dbd6531ddb4675acf75a9",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/shared_preferences_linux-2.4.1/LICENSE"
+  },
+  {
+    "file": "dart/shared_preferences_platform_interface-2.4.2-LICENSE.txt",
+    "bytes": 1497,
+    "sha256": "420f7739f169097f0aad1242045169cd643c8f1d94e62866fad265ae4c369b7d",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/shared_preferences_platform_interface-2.4.2/LICENSE"
+  },
+  {
+    "file": "dart/shared_preferences_web-2.4.3-LICENSE.txt",
+    "bytes": 1519,
+    "sha256": "89519eca6f7b9529b35bdddd623a58c3af06a88c458dbd6531ddb4675acf75a9",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/shared_preferences_web-2.4.3/LICENSE"
+  },
+  {
+    "file": "dart/shared_preferences_windows-2.4.1-LICENSE.txt",
+    "bytes": 1519,
+    "sha256": "89519eca6f7b9529b35bdddd623a58c3af06a88c458dbd6531ddb4675acf75a9",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/shared_preferences_windows-2.4.1/LICENSE"
+  },
+  {
+    "file": "dart/sign_in_with_apple-8.2.0-LICENSE.txt",
+    "bytes": 1067,
+    "sha256": "8fe8d0c01b77f57d16d4c9fb55786863cee3c0b49e977320a7cc1f935a28b24c",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/sign_in_with_apple-8.2.0/LICENSE"
+  },
+  {
+    "file": "dart/sign_in_with_apple_platform_interface-2.0.0-LICENSE.txt",
+    "bytes": 1086,
+    "sha256": "5abf8351a8b62de35da6b4db005384f694d4d58678db442a31dc02c825d4b5b6",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/sign_in_with_apple_platform_interface-2.0.0/LICENSE"
+  },
+  {
+    "file": "dart/sign_in_with_apple_web-3.0.0-LICENSE.txt",
+    "bytes": 1071,
+    "sha256": "9a7e7ea7bf714984a7fdae31910ba6ccc29fadff0f31b31f49dfdbb73f65a744",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/sign_in_with_apple_web-3.0.0/LICENSE"
+  },
+  {
+    "file": "dart/sky_engine-0.0.0-LICENSE.txt",
+    "bytes": 1285117,
+    "sha256": "82a5f93f918f99ff82af18c8be176c709dc812cb3f5e1e1cd93847bdeb0f9369",
+    "source": "/opt/homebrew/share/flutter/bin/cache/pkg/sky_engine/LICENSE"
+  },
+  {
+    "file": "dart/source_span-1.10.2-LICENSE.txt",
+    "bytes": 1504,
+    "sha256": "3c32b53167c7dae9190c38dab5dd9fe1789c53623ebc7d1babcb29914c5b3f16",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/source_span-1.10.2/LICENSE"
+  },
+  {
+    "file": "dart/stack_trace-1.12.1-LICENSE.txt",
+    "bytes": 1503,
+    "sha256": "ff0b91d4f3c32b25cb6ec84985e8da89b0ba2a2b2f7eef353cda5e5423a20390",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/stack_trace-1.12.1/LICENSE"
+  },
+  {
+    "file": "dart/stream_channel-2.1.4-LICENSE.txt",
+    "bytes": 1504,
+    "sha256": "ff15faa32a2e638107b7789592b14426162a75ba620044ee2340a20ec6ce5e73",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/stream_channel-2.1.4/LICENSE"
+  },
+  {
+    "file": "dart/string_scanner-1.4.1-LICENSE.txt",
+    "bytes": 1504,
+    "sha256": "3c32b53167c7dae9190c38dab5dd9fe1789c53623ebc7d1babcb29914c5b3f16",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/string_scanner-1.4.1/LICENSE"
+  },
+  {
+    "file": "dart/term_glyph-1.2.2-LICENSE.txt",
+    "bytes": 1504,
+    "sha256": "ea97a7558a7bd7cee4e2355f7529e3cbebb0dcbb546ddb9a90f10c9eb6b08da5",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/term_glyph-1.2.2/LICENSE"
+  },
+  {
+    "file": "dart/test_api-0.7.11-LICENSE.txt",
+    "bytes": 1504,
+    "sha256": "ff1b9f0df9036c04be424b1e3ce12789bea880ad5ffc3a48e069ae2d40a087a4",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/test_api-0.7.11/LICENSE"
+  },
+  {
+    "file": "dart/typed_data-1.4.0-LICENSE.txt",
+    "bytes": 1504,
+    "sha256": "ff15faa32a2e638107b7789592b14426162a75ba620044ee2340a20ec6ce5e73",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/typed_data-1.4.0/LICENSE"
+  },
+  {
+    "file": "dart/url_launcher-6.3.2-LICENSE.txt",
+    "bytes": 1519,
+    "sha256": "89519eca6f7b9529b35bdddd623a58c3af06a88c458dbd6531ddb4675acf75a9",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/url_launcher-6.3.2/LICENSE"
+  },
+  {
+    "file": "dart/url_launcher_android-6.3.32-LICENSE.txt",
+    "bytes": 1497,
+    "sha256": "420f7739f169097f0aad1242045169cd643c8f1d94e62866fad265ae4c369b7d",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/url_launcher_android-6.3.32/LICENSE"
+  },
+  {
+    "file": "dart/url_launcher_ios-6.4.1-LICENSE.txt",
+    "bytes": 1497,
+    "sha256": "420f7739f169097f0aad1242045169cd643c8f1d94e62866fad265ae4c369b7d",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/url_launcher_ios-6.4.1/LICENSE"
+  },
+  {
+    "file": "dart/url_launcher_linux-3.2.2-LICENSE.txt",
+    "bytes": 1497,
+    "sha256": "420f7739f169097f0aad1242045169cd643c8f1d94e62866fad265ae4c369b7d",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/url_launcher_linux-3.2.2/LICENSE"
+  },
+  {
+    "file": "dart/url_launcher_macos-3.2.5-LICENSE.txt",
+    "bytes": 1497,
+    "sha256": "420f7739f169097f0aad1242045169cd643c8f1d94e62866fad265ae4c369b7d",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/url_launcher_macos-3.2.5/LICENSE"
+  },
+  {
+    "file": "dart/url_launcher_platform_interface-2.3.2-LICENSE.txt",
+    "bytes": 1519,
+    "sha256": "89519eca6f7b9529b35bdddd623a58c3af06a88c458dbd6531ddb4675acf75a9",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/url_launcher_platform_interface-2.3.2/LICENSE"
+  },
+  {
+    "file": "dart/url_launcher_web-2.4.3-LICENSE.txt",
+    "bytes": 1497,
+    "sha256": "420f7739f169097f0aad1242045169cd643c8f1d94e62866fad265ae4c369b7d",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/url_launcher_web-2.4.3/LICENSE"
+  },
+  {
+    "file": "dart/url_launcher_windows-3.1.5-LICENSE.txt",
+    "bytes": 1497,
+    "sha256": "420f7739f169097f0aad1242045169cd643c8f1d94e62866fad265ae4c369b7d",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/url_launcher_windows-3.1.5/LICENSE"
+  },
+  {
+    "file": "dart/uuid-4.5.3-LICENSE.txt",
+    "bytes": 1064,
+    "sha256": "ad3e5523e51004e94ba9ce728805b1b4242dbccdb65e62b523800e35a8a7cfdc",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/uuid-4.5.3/LICENSE"
+  },
+  {
+    "file": "dart/vector_graphics-1.2.2-LICENSE.txt",
+    "bytes": 1497,
+    "sha256": "420f7739f169097f0aad1242045169cd643c8f1d94e62866fad265ae4c369b7d",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/vector_graphics-1.2.2/LICENSE"
+  },
+  {
+    "file": "dart/vector_graphics_codec-1.1.13-LICENSE.txt",
+    "bytes": 1519,
+    "sha256": "89519eca6f7b9529b35bdddd623a58c3af06a88c458dbd6531ddb4675acf75a9",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/vector_graphics_codec-1.1.13/LICENSE"
+  },
+  {
+    "file": "dart/vector_graphics_compiler-1.2.3-LICENSE.txt",
+    "bytes": 1497,
+    "sha256": "420f7739f169097f0aad1242045169cd643c8f1d94e62866fad265ae4c369b7d",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/vector_graphics_compiler-1.2.3/LICENSE"
+  },
+  {
+    "file": "dart/vector_math-2.2.0-LICENSE.txt",
+    "bytes": 2327,
+    "sha256": "b5d856a1e27e9ebea4957fc3526f1c65782a04894b113c6b3b0fb1321dbdec55",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/vector_math-2.2.0/LICENSE"
+  },
+  {
+    "file": "dart/vm_service-15.2.0-LICENSE.txt",
+    "bytes": 1503,
+    "sha256": "ad6a71997da90924b2cfb1fb47ec46537f70faf469efe016168794ae45ed6888",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/vm_service-15.2.0/LICENSE"
+  },
+  {
+    "file": "dart/web-1.1.1-LICENSE.txt",
+    "bytes": 1502,
+    "sha256": "aa913ff50d7542eb8cc35b9f48a80928ac6819ba9057f85d424655e3e8dc271c",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/web-1.1.1/LICENSE"
+  },
+  {
+    "file": "dart/win32-5.15.0-LICENSE.txt",
+    "bytes": 1499,
+    "sha256": "87ef8bccdd619f2345ba5b9026cf1d6cccb305e36ab83849a8a3af9293abde7e",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/win32-5.15.0/LICENSE"
+  },
+  {
+    "file": "dart/xdg_directories-1.1.0-LICENSE.txt",
+    "bytes": 1519,
+    "sha256": "89519eca6f7b9529b35bdddd623a58c3af06a88c458dbd6531ddb4675acf75a9",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/xdg_directories-1.1.0/LICENSE"
+  },
+  {
+    "file": "dart/xml-6.6.1-LICENSE.txt",
+    "bytes": 1101,
+    "sha256": "1f18a2e5a5c57381d93efa92df86477eb1205689b345417c90fcfdc09fa4fa1f",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/xml-6.6.1/LICENSE"
+  },
+  {
+    "file": "dart/yaml-3.1.3-LICENSE.txt",
+    "bytes": 1106,
+    "sha256": "d47b93335401b052d79a2f5a3710e4cf7b5aed782faedf84d40fbdd6eb934ec7",
+    "source": "development-cache/pub-user-20261023/hosted/pub.dev/yaml-3.1.3/LICENSE"
+  },
+  {
+    "file": "dart-inventory.json",
+    "bytes": 49698,
+    "sha256": "4dd18f9c78c85899d125896062cbfbb9de0b7a684e8eea3288cbd2029bae12a5",
+    "source": "current pubspec.lock + package_config + original package files"
+  },
+  {
+    "file": "ios-flutter-NOTICES.txt",
+    "bytes": 1463389,
+    "sha256": "63bef5c386c361f98c48e5bdd19f516705bba1c51f37eac7070f160541e51def",
+    "source": "actual ios release NOTICES.Z (gzip decompressed)"
+  },
+  {
+    "file": "ios-framework-versions.json",
+    "bytes": 1212,
+    "sha256": "ac458e3fa2dc86bcd9d8413f0242e486d4c2eca69d872371ec26d27a2d888aeb",
+    "source": "pinned upstream original or actual release audit evidence"
+  },
+  {
+    "file": "ios-inventory.json",
+    "bytes": 6078,
+    "sha256": "c8b83bea449ccd2d59078d9e3d5fe55b30fdec15525b1a63dc6c5c753140b675",
+    "source": "exact Package.resolved/checkouts + CocoaPods acknowledgements (no dependency resolution)"
+  },
+  {
+    "file": "ios-pods/Mantle.txt",
+    "bytes": 2445,
+    "sha256": "285eede6f638adc9c352be7d66134611e5ea95044095a84de9867fb864e66eab",
+    "source": "app/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-acknowledgements.plist"
+  },
+  {
+    "file": "ios-pods/SDWebImage.txt",
+    "bytes": 1087,
+    "sha256": "db5ae21958ad3871339a53acfabc7e9c20553a35761878dfd304573de1e88740",
+    "source": "app/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-acknowledgements.plist"
+  },
+  {
+    "file": "ios-pods/SDWebImageWebPCoder.txt",
+    "bytes": 1061,
+    "sha256": "2b4e998db6eb1c4f7fe3533dca578b0951274d24bef5f647f42000df43f5af91",
+    "source": "app/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-acknowledgements.plist"
+  },
+  {
+    "file": "ios-pods/flutter_image_compress_common.txt",
+    "bytes": 1071,
+    "sha256": "92aaa4c48aa3bc1d3cd65f3e64f52b7ea77051809bdad60f1cf7deb129b03ca4",
+    "source": "app/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-acknowledgements.plist"
+  },
+  {
+    "file": "ios-pods/libwebp.txt",
+    "bytes": 1496,
+    "sha256": "5aec868f669e384a22372a4e8a1a6cd7d44c64cd451f960ca69cc170d1e13acf",
+    "source": "app/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-acknowledgements.plist"
+  },
+  {
+    "file": "ios-spm/abseil-cpp-binary-LICENSE.txt",
+    "bytes": 11357,
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "source": "https://github.com/google/abseil-cpp-binary.git @ bbe8b69694d7873315fd3a4ad41efe043e1c07c5"
+  },
+  {
+    "file": "ios-spm/app-check-LICENSE.txt",
+    "bytes": 11358,
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "source": "https://github.com/google/app-check.git @ 3e33dd27dd4c69bd81c7c81fe61d8ccf58846902"
+  },
+  {
+    "file": "ios-spm/appauth-ios-LICENSE.txt",
+    "bytes": 11358,
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "source": "https://github.com/openid/AppAuth-iOS.git @ 2781038865a80e2c425a1da12cc1327bcd56501f"
+  },
+  {
+    "file": "ios-spm/boringssl-grpc-1.69.0-LICENSE.txt",
+    "bytes": 12529,
+    "sha256": "a78d37138db9a43843736b2973284b61af19cd5384cf3c752e922171b0d4fc56",
+    "source": "upstream pinned original / collected audit evidence"
+  },
+  {
+    "file": "ios-spm/firebase-ios-sdk-LICENSE.txt",
+    "bytes": 11358,
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "source": "https://github.com/firebase/firebase-ios-sdk @ 8d5b4189f1f482df8d5c58c9985ea70491ef5382"
+  },
+  {
+    "file": "ios-spm/firebase-supplement/FirebaseDatabase__LICENSE.txt",
+    "bytes": 17747,
+    "sha256": "ffdbbd8acda68ce2d41f096c09f029ca00de107cf6683f02d854bc921d7b846b",
+    "source": "https://github.com/firebase/firebase-ios-sdk @ 8d5b4189f1f482df8d5c58c9985ea70491ef5382 / FirebaseDatabase/LICENSE"
+  },
+  {
+    "file": "ios-spm/firebase-supplement/FirebaseDatabase__Sources__third_party__FImmutableSortedDictionary__LICENSE.txt",
+    "bytes": 1066,
+    "sha256": "5b7152f7e06b096780038a8e088bfa90289c35365f14131423bbbd8fbe5207c5",
+    "source": "https://github.com/firebase/firebase-ios-sdk @ 8d5b4189f1f482df8d5c58c9985ea70491ef5382 / FirebaseDatabase/Sources/third_party/FImmutableSortedDictionary/LICENSE"
+  },
+  {
+    "file": "ios-spm/firebase-supplement/FirebaseDatabase__Sources__third_party__SocketRocket__LICENSE.txt",
+    "bytes": 2704,
+    "sha256": "a1d9b397a37265763006b2981b2202c941b58c5261adb4cf8db10de7a6b44be9",
+    "source": "https://github.com/firebase/firebase-ios-sdk @ 8d5b4189f1f482df8d5c58c9985ea70491ef5382 / FirebaseDatabase/Sources/third_party/SocketRocket/LICENSE"
+  },
+  {
+    "file": "ios-spm/firebase-supplement/FirebaseDatabase__Sources__third_party__Wrap-leveldb__LICENSE.txt",
+    "bytes": 2394,
+    "sha256": "e7f0d8f3eda664d20f94f653cf2d786988304e820ca59934a56902aaeb25ee41",
+    "source": "https://github.com/firebase/firebase-ios-sdk @ 8d5b4189f1f482df8d5c58c9985ea70491ef5382 / FirebaseDatabase/Sources/third_party/Wrap-leveldb/LICENSE"
+  },
+  {
+    "file": "ios-spm/firebase-supplement/FirebaseSharedSwift__LICENSE.txt",
+    "bytes": 23090,
+    "sha256": "e25e9130c16697529034ba88013a15bb38ab7c947daf17b0a14c12f932feb9b3",
+    "source": "https://github.com/firebase/firebase-ios-sdk @ 8d5b4189f1f482df8d5c58c9985ea70491ef5382 / FirebaseSharedSwift/LICENSE"
+  },
+  {
+    "file": "ios-spm/firebase-supplement/FirebaseSharedSwift__Sources__third_party__FirebaseDataEncoder__LICENSE.txt",
+    "bytes": 11751,
+    "sha256": "770af8291f708538d8ff885a0bbc4e045cd700531741c4f99528d435c14d7f55",
+    "source": "https://github.com/firebase/firebase-ios-sdk @ 8d5b4189f1f482df8d5c58c9985ea70491ef5382 / FirebaseSharedSwift/Sources/third_party/FirebaseDataEncoder/LICENSE"
+  },
+  {
+    "file": "ios-spm/firebase-supplement/Firestore__LICENSE.txt",
+    "bytes": 24328,
+    "sha256": "e5e9aa330f05975f328422e8dcc7086f5a0258ecbcca1fc5f10f7aa20f5abbfe",
+    "source": "https://github.com/firebase/firebase-ios-sdk @ 8d5b4189f1f482df8d5c58c9985ea70491ef5382 / Firestore/LICENSE"
+  },
+  {
+    "file": "ios-spm/firebase-supplement/Firestore__third_party__nlohmann_json__LICENSE.MIT.txt",
+    "bytes": 1075,
+    "sha256": "4340368262b9b78debc79678618b8d6cfc48abe6d98572883b9b8dbf301ae146",
+    "source": "https://github.com/firebase/firebase-ios-sdk @ 8d5b4189f1f482df8d5c58c9985ea70491ef5382 / Firestore/third_party/nlohmann_json/LICENSE.MIT"
+  },
+  {
+    "file": "ios-spm/google-ads-on-device-conversion-ios-sdk-LICENSE.txt",
+    "bytes": 11358,
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "source": "https://github.com/googleads/google-ads-on-device-conversion-ios-sdk @ dc39082d8881109d35b94b1c122164c0e8d08a55"
+  },
+  {
+    "file": "ios-spm/googleappmeasurement-LICENSE.txt",
+    "bytes": 11358,
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "source": "https://github.com/google/GoogleAppMeasurement.git @ 219e564a8510e983e675c94f77f7f7c50049f22d"
+  },
+  {
+    "file": "ios-spm/googledatatransport-LICENSE.txt",
+    "bytes": 11358,
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "source": "https://github.com/google/GoogleDataTransport.git @ ba3358d3c3dbae8ef230b58a46b97ad65e84e974"
+  },
+  {
+    "file": "ios-spm/googlesignin-ios-LICENSE.txt",
+    "bytes": 11358,
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "source": "https://github.com/google/GoogleSignIn-iOS.git @ 65fb3f1aa6ffbfdc79c4e22178a55cd91561f5e9"
+  },
+  {
+    "file": "ios-spm/googleutilities-LICENSE.txt",
+    "bytes": 12543,
+    "sha256": "ad6d036b9a78f0e1700d68039c06058033fea063172ce2dc68e382a24b4d1928",
+    "source": "https://github.com/google/GoogleUtilities.git @ 9f183ae842be978784f2963a343682e0c46d8fb3"
+  },
+  {
+    "file": "ios-spm/grpc-binary-LICENSE.txt",
+    "bytes": 11357,
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "source": "https://github.com/google/grpc-binary.git @ 75b31c842f664a0f46a2e590a570e370249fd8f6"
+  },
+  {
+    "file": "ios-spm/gtm-session-fetcher-LICENSE.txt",
+    "bytes": 11358,
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "source": "https://github.com/google/gtm-session-fetcher.git @ a2ab612cb980066ee56d90d60d8462992c07f24b"
+  },
+  {
+    "file": "ios-spm/gtmappauth-LICENSE.txt",
+    "bytes": 11358,
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "source": "https://github.com/google/GTMAppAuth.git @ 5d7d66f647400952b1758b230e019b07c0b4b22a"
+  },
+  {
+    "file": "ios-spm/interop-ios-for-google-sdks-LICENSE.txt",
+    "bytes": 11358,
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "source": "https://github.com/google/interop-ios-for-google-sdks.git @ 040d087ac2267d2ddd4cca36c757d1c6a05fdbfe"
+  },
+  {
+    "file": "ios-spm/leveldb-LICENSE.txt",
+    "bytes": 1484,
+    "sha256": "ccc19f1da0798ed666609b65a5b44dd8b3abe6fc08b9c0592eb76e82e174db19",
+    "source": "https://github.com/firebase/leveldb.git @ a0bc79961d7be727d258d33d5a6b2f1023270ba1"
+  },
+  {
+    "file": "ios-spm/nanopb-LICENSE.txt.txt",
+    "bytes": 898,
+    "sha256": "e2f2fc8fe3faa7dcb09dbe995db48c6ec5c1f72705db915101e4a83fed44f66d",
+    "source": "https://github.com/firebase/nanopb.git @ 3851d94a41890dea16dc3db34caf60e585cb4163"
+  },
+  {
+    "file": "ios-spm/promises-LICENSE.txt",
+    "bytes": 11358,
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "source": "https://github.com/google/promises.git @ f4a19a3c313dc2616c70bb49d29a799fb16be837"
+  },
+  {
+    "file": "native-font-NOTICES.txt",
+    "bytes": 2718647,
+    "sha256": "78c5c5507d9c3702efc733d526e21f3fe229d89987c0d56386f98d849e31668d",
+    "source": "upstream pinned original / collected audit evidence"
+  },
+  {
+    "file": "pubspec.lock.txt",
+    "bytes": 40278,
+    "sha256": "172f3562d3f699fe13d9919b6799c7f3fb6bb5e52f68d30603ba962326a6470f",
+    "source": "current pubspec.lock (unaltered)"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "framework": "grpcpp.framework",
+    "version": "1.69.0",
+    "build": "1"
+  },
+  {
+    "framework": "objective_c.framework",
+    "version": "1.0",
+    "build": "1.0"
+  },
+  {
+    "framework": "SDWebImageWebPCoder.framework",
+    "version": "0.15.0",
+    "build": "1"
+  },
+  {
+    "framework": "Flutter.framework",
+    "version": "1.0",
+    "build": "1.0"
+  },
+  {
+    "framework": "Mantle.framework",
+    "version": "2.2.0",
+    "build": "1"
+  },
+  {
+    "framework": "App.framework",
+    "version": "1.0",
+    "build": "1.0"
+  },
+  {
+    "framework": "FirebaseFirestoreInternal.framework",
+    "version": "12.14.0",
+    "build": "1"
+  },
+  {
+    "framework": "grpc.framework",
+    "version": "1.69.0",
+    "build": "1"
+  },
+  {
+    "framework": "openssl_grpc.framework",
+    "version": "0.0.37",
+    "build": "1"
+  },
+  {
+    "framework": "absl.framework",
+    "version": "1.20240722.0",
+    "build": "1"
+  },
+  {
+    "framework": "flutter_image_compress_common.framework",
+    "version": "1.0.0",
+    "build": "1"
+  },
+  {
+    "framework": "SDWebImage.framework",
+    "version": "5.21.7",
+    "build": "1"
+  },
+  {
+    "framework": "libwebp.framework",
+    "version": "1.6.0",
+    "build": "1"
+  }
+]
