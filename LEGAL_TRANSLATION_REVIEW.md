@@ -21,15 +21,16 @@ Prepared: 2026-10-26. Staged on a separate branch; production publication requir
 - Existing KO/EN Terms have a targeted section 6 clarification; existing KO/EN Privacy has targeted section 5 clarification and necessary California-purpose alignment. No existing terms, safety actions, or license source inventory was removed.
 - GitHub Pages workflow deploys from `main` only, so this feature branch does not publish the website.
 
-## Existing items to recheck at release
+## Account-deletion path and license audit (2026-10-26)
 
-- The existing full licenses page references Remero `1.0.0+23`. Current Android release work uses a later version; dependency/license inventory must be regenerated against the actual release source before asserting it is current. This change keeps all original notices intact.
-- The existing KO/EN Terms/Privacy deletion paths use `Settings > Delete Account`, while the standalone deletion page uses `Settings > Information > Account and Data Deletion`. Verify the actual current in-app navigation and align all languages before publishing.
-- English/Korean source remains the governing drafting reference here; get qualified review of Spanish wording and regional notices before publishing.
+- App source `myhushus/remero`, branch `codex/premium-share-release-45-20261022`, confirms **Settings > Information > Delete account** is the account deletion action. The separate **Account and Data Deletion** item opens `/delete/` and does not delete the account. KO/EN/ES Terms, regional Privacy, and the account-deletion instructions have been aligned. Recheck actual localized labels and flow on the production +46 build.
+- The original License v1.1 inventory was for +23. License v1.2 now enumerates **161 hosted packages** (24 direct, 137 transitive) from the available +45 `pubspec.lock` snapshot, with package version license links: BSD-3-Clause 112; MIT 30; Apache-2.0 15; MPL-2.0 3; BSD-2-Clause 1. Existing notices are retained. Excluded are Flutter SDK packages and direct development-only tools.
+- This does **not** establish the complete +46 inventory: production Android `1.0.0+46` AAB, current iOS IPA, native SDKs, merged license/NOTICE files, and the latest actual lockfile must still be checked from release artifacts. Never relabel the +45 snapshot as a verified +46 release inventory.
+- English/Korean source remains the governing drafting reference here; obtain final qualified review of the Spanish wording and regional notices before publishing.
 
 ## Publication gate (required)
 
 - Confirm the in-house text Moderation runs in **production**, covers the stated KO/EN/ES fields, and fails closed for uncheckable submissions.
 - Verify that no separate external AI service receives text for moderation; cloud infrastructure and image moderation remain separately assessed and accurately disclosed.
-- Recheck the current app deletion navigation and existing license inventory; preserve all original notices.
+- On the actual +46 release artifacts, confirm the localized account-deletion UX, final package/SDK inventory, and native LICENSE/NOTICE obligations; preserve the original attribution texts.
 - Do not merge this draft PR into `main` before production rollout and final legal/product verification. GitHub Pages publishes `main` automatically. The local DevSSD checkout and its Git staging are not modified by this remote-branch update.
