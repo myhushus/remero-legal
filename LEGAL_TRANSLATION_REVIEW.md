@@ -20,3 +20,9 @@ Prepared: 2026-10-26. Staged on a separate branch; production publication requir
 - Spanish content translates the existing v1.0 source and regional qualifiers; it is not independent legal advice. Review jurisdictional applicability, dates, and actual product behavior before publication.
 - Existing KO/EN Terms are unchanged. Existing KO/EN Privacy has only section 5 disclosure/update date and locale links updated.
 - GitHub Pages workflow deploys from `main` only, so this feature branch does not publish the website.
+
+## Existing items to recheck at release
+
+- The existing full licenses page references Remero `1.0.0+23`. Current Android release work uses a later version; dependency/license inventory must be regenerated against the actual release source before asserting it is current. This change keeps all original notices intact.
+- The existing KO/EN Terms/Privacy deletion paths use `Settings > Delete Account`, while the standalone deletion page uses `Settings > Information > Account and Data Deletion`. Verify the actual current in-app navigation and align all languages before publishing.
+- English/Korean source remains the governing drafting reference here; get qualified review of Spanish wording and regional notices before publishing.
