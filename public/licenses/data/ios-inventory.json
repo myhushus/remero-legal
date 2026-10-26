@@ -1,0 +1,202 @@
+[
+  {
+    "name": "abseil-cpp-binary",
+    "version": "1.2024072200.0",
+    "revision": "bbe8b69694d7873315fd3a4ad41efe043e1c07c5",
+    "source": "https://github.com/google/abseil-cpp-binary.git",
+    "scope": "SPM resolved; linkage is separately recorded",
+    "texts": [
+      "data/ios-spm/abseil-cpp-binary-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "app-check",
+    "version": "11.3.1",
+    "revision": "3e33dd27dd4c69bd81c7c81fe61d8ccf58846902",
+    "source": "https://github.com/google/app-check.git",
+    "scope": "SPM resolved; linkage is separately recorded",
+    "texts": [
+      "data/ios-spm/app-check-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "appauth-ios",
+    "version": "1.7.6",
+    "revision": "2781038865a80e2c425a1da12cc1327bcd56501f",
+    "source": "https://github.com/openid/AppAuth-iOS.git",
+    "scope": "SPM resolved; linkage is separately recorded",
+    "texts": [
+      "data/ios-spm/appauth-ios-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "firebase-ios-sdk",
+    "version": "12.14.0",
+    "revision": "8d5b4189f1f482df8d5c58c9985ea70491ef5382",
+    "source": "https://github.com/firebase/firebase-ios-sdk",
+    "scope": "SPM resolved; linkage is separately recorded",
+    "texts": [
+      "data/ios-spm/firebase-ios-sdk-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "google-ads-on-device-conversion-ios-sdk",
+    "version": "3.6.1",
+    "revision": "dc39082d8881109d35b94b1c122164c0e8d08a55",
+    "source": "https://github.com/googleads/google-ads-on-device-conversion-ios-sdk",
+    "scope": "SPM resolved; linkage is separately recorded",
+    "texts": [
+      "data/ios-spm/google-ads-on-device-conversion-ios-sdk-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "googleappmeasurement",
+    "version": "12.14.0",
+    "revision": "219e564a8510e983e675c94f77f7f7c50049f22d",
+    "source": "https://github.com/google/GoogleAppMeasurement.git",
+    "scope": "SPM resolved; linkage is separately recorded",
+    "texts": [
+      "data/ios-spm/googleappmeasurement-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "googledatatransport",
+    "version": "10.1.1",
+    "revision": "ba3358d3c3dbae8ef230b58a46b97ad65e84e974",
+    "source": "https://github.com/google/GoogleDataTransport.git",
+    "scope": "SPM resolved; linkage is separately recorded",
+    "texts": [
+      "data/ios-spm/googledatatransport-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "googlesignin-ios",
+    "version": "8.0.0",
+    "revision": "65fb3f1aa6ffbfdc79c4e22178a55cd91561f5e9",
+    "source": "https://github.com/google/GoogleSignIn-iOS.git",
+    "scope": "SPM resolved; linkage is separately recorded",
+    "texts": [
+      "data/ios-spm/googlesignin-ios-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "googleutilities",
+    "version": "8.1.2",
+    "revision": "9f183ae842be978784f2963a343682e0c46d8fb3",
+    "source": "https://github.com/google/GoogleUtilities.git",
+    "scope": "SPM resolved; linkage is separately recorded",
+    "texts": [
+      "data/ios-spm/googleutilities-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "grpc-binary",
+    "version": "1.69.1",
+    "revision": "75b31c842f664a0f46a2e590a570e370249fd8f6",
+    "source": "https://github.com/google/grpc-binary.git",
+    "scope": "SPM resolved; linkage is separately recorded",
+    "texts": [
+      "data/ios-spm/grpc-binary-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "gtm-session-fetcher",
+    "version": "3.5.0",
+    "revision": "a2ab612cb980066ee56d90d60d8462992c07f24b",
+    "source": "https://github.com/google/gtm-session-fetcher.git",
+    "scope": "SPM resolved; linkage is separately recorded",
+    "texts": [
+      "data/ios-spm/gtm-session-fetcher-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "gtmappauth",
+    "version": "4.1.1",
+    "revision": "5d7d66f647400952b1758b230e019b07c0b4b22a",
+    "source": "https://github.com/google/GTMAppAuth.git",
+    "scope": "SPM resolved; linkage is separately recorded",
+    "texts": [
+      "data/ios-spm/gtmappauth-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "interop-ios-for-google-sdks",
+    "version": "101.0.0",
+    "revision": "040d087ac2267d2ddd4cca36c757d1c6a05fdbfe",
+    "source": "https://github.com/google/interop-ios-for-google-sdks.git",
+    "scope": "SPM resolved; linkage is separately recorded",
+    "texts": [
+      "data/ios-spm/interop-ios-for-google-sdks-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "leveldb",
+    "version": "1.22.5",
+    "revision": "a0bc79961d7be727d258d33d5a6b2f1023270ba1",
+    "source": "https://github.com/firebase/leveldb.git",
+    "scope": "SPM resolved; linkage is separately recorded",
+    "texts": [
+      "data/ios-spm/leveldb-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "nanopb",
+    "version": "2.30910.1",
+    "revision": "3851d94a41890dea16dc3db34caf60e585cb4163",
+    "source": "https://github.com/firebase/nanopb.git",
+    "scope": "SPM resolved; linkage is separately recorded",
+    "texts": [
+      "data/ios-spm/nanopb-LICENSE.txt.txt"
+    ]
+  },
+  {
+    "name": "promises",
+    "version": "2.4.1",
+    "revision": "f4a19a3c313dc2616c70bb49d29a799fb16be837",
+    "source": "https://github.com/google/promises.git",
+    "scope": "SPM resolved; linkage is separately recorded",
+    "texts": [
+      "data/ios-spm/promises-LICENSE.txt"
+    ]
+  },
+  {
+    "name": "Mantle",
+    "scope": "CocoaPods acknowledgement; see Podfile.lock",
+    "texts": [
+      "data/ios-pods/Mantle.txt"
+    ],
+    "version": "2.2.0"
+  },
+  {
+    "name": "SDWebImage",
+    "scope": "CocoaPods acknowledgement; see Podfile.lock",
+    "texts": [
+      "data/ios-pods/SDWebImage.txt"
+    ],
+    "version": "5.21.7"
+  },
+  {
+    "name": "SDWebImageWebPCoder",
+    "scope": "CocoaPods acknowledgement; see Podfile.lock",
+    "texts": [
+      "data/ios-pods/SDWebImageWebPCoder.txt"
+    ],
+    "version": "0.15.0"
+  },
+  {
+    "name": "flutter_image_compress_common",
+    "scope": "CocoaPods acknowledgement; see Podfile.lock",
+    "texts": [
+      "data/ios-pods/flutter_image_compress_common.txt"
+    ],
+    "version": "1.0.0"
+  },
+  {
+    "name": "libwebp",
+    "scope": "CocoaPods acknowledgement; see Podfile.lock",
+    "texts": [
+      "data/ios-pods/libwebp.txt"
+    ],
+    "version": "1.6.0"
+  }
+]
