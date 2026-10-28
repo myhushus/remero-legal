@@ -22,3 +22,5 @@ French translation added: October 27, 2026. Current published KO/EN/ES policy co
 Portuguese translation prepared October 28, 2026; French production text-filter coverage verified and updated in KO/EN/ES/FR/PT Terms and Privacy. See `PORTUGUESE_REVIEW_20261028.md` for scope, evidence and publication status. Earlier review documents describe their historical execution dates.
 
 Japanese translation prepared October 28, 2026: `/ja/`, `/terms/ja/v1.0/`, `/privacy/ja/v1.0/`, `/delete/ja/`, `/child-safety/ja/`, `/licenses/ja/`. See `JAPANESE_REVIEW_20261028.md` for content, verification scope and publication status. This addition does not assert Japanese production text-filter coverage.
+
+Indonesian translation prepared October 28, 2026: `/id/`, `/terms/id/v1.0/`, `/privacy/id/v1.0/`, `/delete/id/`, `/child-safety/id/`, `/licenses/id/`. See `INDONESIAN_REVIEW_20261028.md` for content, verification and publication status. This addition does not assert Indonesian production text-filter coverage.
