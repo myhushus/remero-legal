@@ -11,3 +11,8 @@ table{width:100%;border-collapse:collapse;margin:16px 0;font-size:.95rem}th,td{b
 /* Localized legal pages: navigation, keyboard focus and mobile tables. */
 nav a{display:inline-block}a:focus-visible{outline:2px solid var(--link);outline-offset:3px;border-radius:2px}
 @media(max-width:640px){main{padding:24px 16px 44px}nav{gap:8px 12px}h1{font-size:1.8rem}table{display:block;overflow-x:auto;-webkit-overflow-scrolling:touch}th,td{min-width:145px}h1,h2,h3,p,li{overflow-wrap:break-word}}
+
+/* German compounds retain readable type sizes on narrow viewports. */
+html[lang="de"] h1,html[lang="de"] h2,html[lang="de"] h3,
+html[lang="de"] p,html[lang="de"] li,html[lang="de"] th,html[lang="de"] td{hyphens:auto}
+html[lang="de"] table{display:block;max-width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch}
