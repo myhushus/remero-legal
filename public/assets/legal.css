@@ -16,3 +16,6 @@ nav a{display:inline-block}a:focus-visible{outline:2px solid var(--link);outline
 html[lang="de"] h1,html[lang="de"] h2,html[lang="de"] h3,
 html[lang="de"] p,html[lang="de"] li,html[lang="de"] th,html[lang="de"] td{hyphens:auto}
 html[lang="de"] table{display:block;max-width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch}
+
+/* Hindi license tables retain readable type and scroll within available width. */
+html[lang="hi-IN"] table{display:block;max-width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch}
