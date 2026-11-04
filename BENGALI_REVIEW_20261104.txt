@@ -1,0 +1,53 @@
+REMERO BENGALI LEGAL REVIEW — 2026-11-04
+
+STATUS AT REVIEW: Prepared and locally validated. User explicitly approved commit, push, PR merge and public deployment on November 4, 2026. Publication results are recorded in the PR and local publication evidence.
+Branch: codex/bengali-legal-20261104
+Base: 478ec18a728a75b1bd9dec8fe7738130afd438f6 (latest origin/main at preparation)
+Worktree: /Volumes/DevSSD/Dev/worktrees/remero-legal-bn-20261104
+Evidence: .audit/ and /Volumes/DevSSD/Dev/apps/remero/output/bengali-legal-v1/validation/
+
+DELIVERED
+Nine HTML files: /bn/; /terms/bn/v1.0/; /privacy/bn/v1.0/ redirect;
+/privacy/bn/v1.0/bn.html, bn-eea-uk.html, bn-us-ca.html;
+/delete/bn/; /child-safety/bn/; /licenses/bn/.
+Standard Bengali (bn) shared across Bangladesh and India. No new country-specific rights or operational promises.
+81 existing pages receive corresponding Bengali links. Existing URL paths remain unchanged.
+Terms and Privacy routers recognize bn, bn-BD, bn-IN. Existing locale behavior is retained.
+Bengali-only CSS permits horizontal scrolling within long tables and gives headings adequate line height.
+No new font, image, dependency, app code, production service, or binary change.
+
+POLICY CONTENT PRESERVED
+Under 14 use prohibited; reports reviewed within 24 hours; deleted backups retained for at most 90 days.
+Existing deletion boundaries, legal/safety retention exceptions and already-delivered shared-chat behavior retained.
+Own text filtering and separate Google Cloud image checks described as current published policy states.
+Published text-filter coverage remains Korean/English/Spanish/French and mixed text. Bengali production filtering is NOT newly claimed or certified.
+Existing EEA/UK/Switzerland and California supplements translated; no Bangladesh/India legal entitlement added.
+All three complete license tables and 262 original license/data files preserved byte-for-byte.
+License notices identify the existing October 26 Android 46 / iOS 45 audit; no new build audit claimed.
+Current public EN Terms, EN Privacy and Hindi home were fetched over HTTPS and matched the latest origin/main bytes during preparation.
+
+VERIFIED
+3,313 internal links and fragment destinations: zero broken links.
+Existing policy body bytes unchanged after reversing only new Bengali navigation/router additions.
+Nine Bengali files have lang=bn, viewport metadata, no duplicate IDs or unresolved template tokens.
+Chrome renders: 8 substantive pages x widths 320/717/1280 x 3 conditions = 72 cases.
+Conditions: light at root font 100%; light at 200%; dark at 200%. No document horizontal overflow or missing heading/language.
+These are real Chrome viewport sizes with audit-only root-font and exact theme-variable response overrides, NOT OS accessibility text settings or OS dark-mode tests.
+Long tables scroll internally. No claim that all columns fit simultaneously on narrow screens.
+18 actual language-link clicks: Bengali to each of 9 existing languages and back, preserving EEA regional context.
+Bengali privacy landing redirect reached bn.html in Chrome.
+Actual Terms/Privacy router scripts tested with 19 navigator fixtures each: 38 passing cases (including bn-BD/bn-IN and existing locales).
+Representative home and mobile privacy screenshots inspected; git diff --check passed.
+Original Legal main worktree remains clean. New worktree HEAD and index hash match preparation baseline.
+No staging, commit, push, merge, release build, deployment, or app modification performed.
+
+LIMITS
+No independent native Bengali or legal-professional review.
+No physical mobile device, VoiceOver/TalkBack, or OS language/text-size/appearance setting verification.
+No new production moderation-language audit, binary license audit, or re-fetch of every external dependency/license URL.
+Bengali public URLs are not deployed or publicly verified yet.
+
+PUBLICATION NEXT STEP (explicit user approval received)
+Review this branch, commit/push the 9 Bengali pages plus navigation/router/CSS and this review record; create a PR; merge to main; verify GitHub Pages workflow and public Bengali pages/links/language switching.
+Before publication, recheck origin/main and preserve any newer changes. Keep .audit/ and preparation scripts local; do not publish test-only preview server.
+Existing /terms and /privacy automatic locale routing is unchanged except the bn branch.

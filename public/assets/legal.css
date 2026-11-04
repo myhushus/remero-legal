@@ -19,3 +19,7 @@ html[lang="de"] table{display:block;max-width:100%;overflow-x:auto;-webkit-overf
 
 /* Hindi license tables retain readable type and scroll within available width. */
 html[lang="hi-IN"] table{display:block;max-width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch}
+
+/* Bengali tables retain readable type and scroll inside the content width. */
+html[lang="bn"] table{display:block;max-width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch}
+html[lang="bn"] h1,html[lang="bn"] h2,html[lang="bn"] h3{line-height:1.45}
