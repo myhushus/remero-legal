@@ -23,3 +23,7 @@ html[lang="hi-IN"] table{display:block;max-width:100%;overflow-x:auto;-webkit-ov
 /* Bengali tables retain readable type and scroll inside the content width. */
 html[lang="bn"] table{display:block;max-width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch}
 html[lang="bn"] h1,html[lang="bn"] h2,html[lang="bn"] h3{line-height:1.45}
+
+/* Marathi: readable tables and complete Devanagari line boxes. */
+html[lang="mr"] table{display:block;max-width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch}
+html[lang="mr"] h1,html[lang="mr"] h2,html[lang="mr"] h3{line-height:1.45}
