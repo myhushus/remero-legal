@@ -1,0 +1,24 @@
+Tamil Legal publication review — 2026-11-04
+
+Nine Tamil routes, existing 12-language navigation and ta/ta-* root routers.
+Base: 892dbf23de61586601645d9ad1773923e32d94c4.
+User explicitly authorized commit, push, PR merge and public deployment on 2026-11-04.
+
+Pre-publication checks:
+- 5,488 internal links; zero broken links.
+- Existing policy bodies unchanged; 262 original license files and 3 complete tables preserved.
+- Minimum age 14, report review within 24 hours and backup maximum 90 days preserved.
+- Own text moderation and separate Google Cloud Vision photo checks remain distinct.
+- 60 router fixtures covering Tamil variants and existing languages.
+- 54 local browser layout checks: 6 conditions, 9 frames with one duplicate global privacy page.
+- 320/717/1280 CSS widths; 100/200% CSS text; light/dark samples.
+- Long Tamil words wrap in notices; tables scroll internally; root page overflow absent.
+- Privacy redirect and Tamil/English/Korean EEA language switching preserve region.
+
+Limits:
+Independent Tamil native-speaker/legal-professional review not performed.
+No new binary license audit or production Tamil moderation certification.
+External dependency license-source URLs not re-fetched; shipped notice text preserved.
+No physical-device, OS locale or screen-reader audit.
+App code, prod Functions and app builds are outside this publication.
+See pull request and GitHub Pages workflow for subsequent deployment state.

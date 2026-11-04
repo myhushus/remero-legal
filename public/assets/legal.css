@@ -31,3 +31,8 @@ html[lang="mr"] h1,html[lang="mr"] h2,html[lang="mr"] h3{line-height:1.45}
 /* Telugu: readable tables and full vowel/conjunct line boxes. */
 html[lang="te"] table{display:block;max-width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch}
 html[lang="te"] h1,html[lang="te"] h2,html[lang="te"] h3{line-height:1.45}
+
+/* Tamil: readable tables and complete vowel-sign line boxes. */
+html[lang="ta"] table{display:block;max-width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch}
+html[lang="ta"] h1,html[lang="ta"] h2,html[lang="ta"] h3{line-height:1.5}
+html[lang="ta"] .notice{overflow-wrap:anywhere}

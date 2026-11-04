@@ -33,3 +33,8 @@ Marathi translation prepared November 4, 2026 (`mr`, `mr-IN`). Nine pages and la
 ## Telugu preparation (2026-11-04)
 
 Telugu (`te`, `te-IN`) pages and language navigation are included. Pre-publication verification is recorded in `TELUGU_REVIEW_20261104.txt`. The user authorized commit, push, PR merge and GitHub Pages publication on 2026-11-04. Public deployment verification is recorded with the pull request and delivery report.
+
+
+## Tamil publication (2026-11-04)
+
+Tamil (`ta`, including regional variants) adds nine legal routes and language navigation. See `TAMIL_REVIEW_20261104.txt` for validation and limits. The user authorized commit, push, PR merge and GitHub Pages publication on 2026-11-04; consult the PR and deployment workflow for public status. This addition does not assert Tamil production text-filter coverage.
