@@ -1,0 +1,10 @@
+REMERO MARATHI LEGAL — PREPUBLICATION REVIEW / 2026-11-04
+Review status: nine pages prepared and locally verified. User explicitly approved commit, push, PR merge and public deployment on November 4, 2026. See PR and local publication evidence for final deployment result.
+Branch: codex/marathi-legal-20261104
+Base: 2b798970e3a729c2d5f7386f60cd5adb88de9fb3 (published Bengali PR #9).
+Scope: standard Marathi mr/mr-IN, Terms, Privacy/global/EEA-UK-Switzerland/California, deletion, child safety, licenses and home. No new Indian rights or Marathi production moderation coverage asserted.
+Preserved: under 14 use prohibited; reports reviewed within 24 hours; deleted backups up to 90 days; existing shared-chat deletion boundaries; current published text-filter coverage; separate Google Cloud image checks; all other policy bodies.
+Checks: 4,020 internal links, zero broken; 262 original license files and three tables byte-identical. Nine Marathi files have lang/viewport and no unresolved tokens. Chrome 72 conditions (8 pages x widths 320/717/1280 x light100%, light200%, dark200%). No page horizontal overflow. Root text scaling and theme variables are preview-response overrides, not OS settings. Twenty actual language clicks preserve EEA regional context between Marathi and each existing language. Router scripts pass 44 fixtures. git diff --check passes.
+Evidence: output/marathi-legal-v1/validation and .audit/content-check.json. Main Legal worktree retained; changes are isolated here. Test server and .audit are local evidence, not publication files.
+Limits: no independent Marathi-native/legal-professional review; physical devices, screen readers, OS language/text-size/appearance not tested; no new binary license audit or production moderation audit; external license source URLs not all re-fetched. Public Marathi URLs are not yet available through this work.
+Publication explicitly approved on November 4, 2026. Next: recheck origin/main, commit only public files plus review/readme, push branch, create/review/merge PR, verify Pages and public page bytes plus language switches.
