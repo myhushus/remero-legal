@@ -27,3 +27,7 @@ html[lang="bn"] h1,html[lang="bn"] h2,html[lang="bn"] h3{line-height:1.45}
 /* Marathi: readable tables and complete Devanagari line boxes. */
 html[lang="mr"] table{display:block;max-width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch}
 html[lang="mr"] h1,html[lang="mr"] h2,html[lang="mr"] h3{line-height:1.45}
+
+/* Telugu: readable tables and full vowel/conjunct line boxes. */
+html[lang="te"] table{display:block;max-width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch}
+html[lang="te"] h1,html[lang="te"] h2,html[lang="te"] h3{line-height:1.45}

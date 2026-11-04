@@ -28,3 +28,8 @@ Indonesian translation prepared October 28, 2026: `/id/`, `/terms/id/v1.0/`, `/p
 Bengali translation prepared November 4, 2026: `/bn/`, `/terms/bn/v1.0/`, `/privacy/bn/v1.0/`, `/delete/bn/`, `/child-safety/bn/`, `/licenses/bn/`. Shared Bengali (`bn`) supports Bangladesh and India language variants. See `BENGALI_REVIEW_20261104.txt` for verification and limits. Preparation is complete and publication was explicitly approved on November 4, 2026; consult the PR for deployment status. This addition does not assert Bengali production text-filter coverage.
 
 Marathi translation prepared November 4, 2026 (`mr`, `mr-IN`). Nine pages and language navigation are locally validated; publication explicitly approved November 4, 2026. See `MARATHI_REVIEW_20261104.txt` and PR deployment results. No Marathi production text-filter support is claimed.
+
+
+## Telugu preparation (2026-11-04)
+
+Telugu (`te`, `te-IN`) pages and language navigation are included. Pre-publication verification is recorded in `TELUGU_REVIEW_20261104.txt`. The user authorized commit, push, PR merge and GitHub Pages publication on 2026-11-04. Public deployment verification is recorded with the pull request and delivery report.

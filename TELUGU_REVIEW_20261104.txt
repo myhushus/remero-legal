@@ -1,0 +1,15 @@
+Remero Telugu Legal preparation — 2026-11-04
+Status at preparation: locally verified; public verification follows the approved publication workflow.
+Worktree: /Volumes/DevSSD/Dev/worktrees/remero-legal-te-20261104
+Branch: codex/telugu-legal-20261104
+Base: 3a52e833133c12f1a238526e15b143615b4db796
+
+Nine Telugu pages: home, terms, privacy landing, global privacy, EEA/UK/Switzerland privacy, California privacy, account/data deletion, child safety, licenses.
+Translated current published policy; no new Indian legal rights or Telugu production moderation support claims. Ages under 14 prohibited; reports reviewed within 24 hours; deleted backup data up to 90 days. Shared-chat deletion boundaries and store billing obligations retained.
+Existing 99 HTML pages receive Telugu language navigation only; terms/privacy routers recognize te and te-*. CSS scoped to Telugu: scrollable tables and full heading line boxes.
+Checks: 4,745 internal links, no broken links. Existing policy bodies unchanged. Original license data 262 files and all 3 complete license tables unchanged. 50 routing cases pass.
+Chrome: 8 content pages × 3 widths (320/717/1280) × 3 conditions (light 100%, light 200%, dark 200%) = 72 renders without document horizontal overflow. Local response CSS fixtures, not OS accessibility settings. Tables scroll within page. 22 actual language-link clicks across 12 locales retain EEA region. Privacy landing redirects correctly.
+App asset package: /Volumes/DevSSD/Dev/apps/remero/output/telugu-localization-v1/HANDOFF.txt
+
+Unverified: independent native-speaker/professional legal review; physical-device and OS accessibility; all external license/source links; new release binary notices; live Telugu public routes. Production moderation language coverage was not re-certified.
+Original Legal checkout and app implementation are preserved. No staging, commit, push, merge or deployment performed by this preparation. The user explicitly approved Telugu Legal commit, push, PR merge, public deployment and Codex handoff on 2026-11-04.
