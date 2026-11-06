@@ -1,0 +1,52 @@
+{
+  "reviewDate": "2026-11-06",
+  "scope": "Current source dependency and original-notice comparison; existing signed build 50 notice presence. Not a new release or a new source-to-binary native SDK audit.",
+  "dartEntriesCompared": 168,
+  "dependencyLocks": [
+    {
+      "path": "pubspec.lock",
+      "sha256": "172f3562d3f699fe13d9919b6799c7f3fb6bb5e52f68d30603ba962326a6470f",
+      "matchesPublishedEvidence": true
+    },
+    {
+      "path": "ios/Podfile.lock",
+      "sha256": "655dff38912549b274629e4ec632b1f067c22a2580d270b6da21ff3169a4f7b7",
+      "matchesPublishedEvidence": true
+    },
+    {
+      "path": "ios/Runner.xcworkspace/xcshareddata/swiftpm/Package.resolved",
+      "sha256": "19eb0ca1c2902dd191d1ccc698980dbf1d941e4ea639a467ccd020ca7497e3af",
+      "matchesPublishedEvidence": true
+    }
+  ],
+  "nativeFontNoticeSha256": "78c5c5507d9c3702efc733d526e21f3fe229d89987c0d56386f98d849e31668d",
+  "originalEvidenceFilesVerified": 261,
+  "artifacts": [
+    {
+      "platform": "android",
+      "version": "1.0.3",
+      "build": 50,
+      "sha256": "87236a14e4da885d91b5bfe3a7af6c1153de56ca4659ce10a2b623474e5cebd1",
+      "separateNoticeAssetPresent": false,
+      "nativeFontNoticeExact": true,
+      "nativeFontNoticeInFlutterRegistry": true,
+      "flutterNoticesSha256": "f1bcd2a7b96c788b8d82beb1fc8f5b25bb377d7720d4dce026c18f369d659a69"
+    },
+    {
+      "platform": "ios",
+      "version": "1.0.3",
+      "build": 50,
+      "sha256": "330ccb347233bb5102bf57f255cda8948bcd6d85899003ab0893aedb2d1775c8",
+      "separateNoticeAssetPresent": false,
+      "nativeFontNoticeExact": true,
+      "nativeFontNoticeInFlutterRegistry": true,
+      "flutterNoticesSha256": "f1bcd2a7b96c788b8d82beb1fc8f5b25bb377d7720d4dce026c18f369d659a69"
+    }
+  ],
+  "magicLink": "Uses already-listed firebase_auth and existing Firebase SDKs; no new authentication SDK dependency. This license review does not certify pending authentication release gates.",
+  "limits": [
+    "Existing historical native SDK/source evidence is retained.",
+    "No new release was built or uploaded.",
+    "No App Store processed binary audit or independent legal opinion."
+  ]
+}
